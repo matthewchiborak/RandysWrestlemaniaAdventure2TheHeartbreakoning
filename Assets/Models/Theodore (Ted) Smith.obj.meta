@@ -1,0 +1,153 @@
+fileFormatVersion: 2
+guid: 61ee7b29b96c3fb469e2fa817d97222f
+timeCreated: 1482204776
+licenseType: Free
+ModelImporter:
+  serializedVersion: 19
+  fileIDToRecycleName:
+    100000: Mesh_3481.rip_Tex_012_Mesh_3481.rip_Tex_012_Tex_0129_0.dds_teeth1.png
+    100002: Mesh_3483.rip_Tex_013_Mesh_3483.rip_Tex_013_Tex_0132_0.dds.001_eye1.png
+    100004: Mesh_3483.rip_Tex_013_Mesh_3483.rip_Tex_013_Tex_0132_0.dds_eye1.png
+    100006: Mesh_3484.rip_Tex_013_Mesh_3484.rip_Tex_013_Tex_0135_0.dds.001_top1.png
+    100008: Mesh_3484.rip_Tex_013_Mesh_3484.rip_Tex_013_Tex_0135_0.dds.002_top1.png
+    100010: Mesh_3484.rip_Tex_013_Mesh_3484.rip_Tex_013_Tex_0135_0.dds.003_top1.png
+    100012: Mesh_3484.rip_Tex_013_Mesh_3484.rip_Tex_013_Tex_0135_0.dds.004_top1.png
+    100014: Mesh_3484.rip_Tex_013_Mesh_3484.rip_Tex_013_Tex_0135_0.dds_top1.png
+    100016: Mesh_3487.rip_Tex_014_Mesh_3487.rip_Tex_014_Tex_0141_0.dds.001_face1.png
+    100018: Mesh_3487.rip_Tex_014_Mesh_3487.rip_Tex_014_Tex_0141_0.dds_face1.png
+    100020: Mesh_3489.rip_Tex_014_Mesh_3489.rip_Tex_014_Tex_0144_0.dds.001_arm1.png
+    100022: Mesh_3489.rip_Tex_014_Mesh_3489.rip_Tex_014_Tex_0144_0.dds_arm1.png
+    100024: Mesh_3494.rip_Tex_015_Mesh_3494.rip_Tex_015_Tex_0153_0.dds.001_jeans1.png
+    100026: Mesh_3494.rip_Tex_015_Mesh_3494.rip_Tex_015_Tex_0153_0.dds.002_jeans1.png
+    100028: Mesh_3494.rip_Tex_015_Mesh_3494.rip_Tex_015_Tex_0153_0.dds.003_jeans1.png
+    100030: Mesh_3494.rip_Tex_015_Mesh_3494.rip_Tex_015_Tex_0153_0.dds_jeans1.png
+    100032: //RootNode
+    400000: Mesh_3481.rip_Tex_012_Mesh_3481.rip_Tex_012_Tex_0129_0.dds_teeth1.png
+    400002: Mesh_3483.rip_Tex_013_Mesh_3483.rip_Tex_013_Tex_0132_0.dds.001_eye1.png
+    400004: Mesh_3483.rip_Tex_013_Mesh_3483.rip_Tex_013_Tex_0132_0.dds_eye1.png
+    400006: Mesh_3484.rip_Tex_013_Mesh_3484.rip_Tex_013_Tex_0135_0.dds.001_top1.png
+    400008: Mesh_3484.rip_Tex_013_Mesh_3484.rip_Tex_013_Tex_0135_0.dds.002_top1.png
+    400010: Mesh_3484.rip_Tex_013_Mesh_3484.rip_Tex_013_Tex_0135_0.dds.003_top1.png
+    400012: Mesh_3484.rip_Tex_013_Mesh_3484.rip_Tex_013_Tex_0135_0.dds.004_top1.png
+    400014: Mesh_3484.rip_Tex_013_Mesh_3484.rip_Tex_013_Tex_0135_0.dds_top1.png
+    400016: Mesh_3487.rip_Tex_014_Mesh_3487.rip_Tex_014_Tex_0141_0.dds.001_face1.png
+    400018: Mesh_3487.rip_Tex_014_Mesh_3487.rip_Tex_014_Tex_0141_0.dds_face1.png
+    400020: Mesh_3489.rip_Tex_014_Mesh_3489.rip_Tex_014_Tex_0144_0.dds.001_arm1.png
+    400022: Mesh_3489.rip_Tex_014_Mesh_3489.rip_Tex_014_Tex_0144_0.dds_arm1.png
+    400024: Mesh_3494.rip_Tex_015_Mesh_3494.rip_Tex_015_Tex_0153_0.dds.001_jeans1.png
+    400026: Mesh_3494.rip_Tex_015_Mesh_3494.rip_Tex_015_Tex_0153_0.dds.002_jeans1.png
+    400028: Mesh_3494.rip_Tex_015_Mesh_3494.rip_Tex_015_Tex_0153_0.dds.003_jeans1.png
+    400030: Mesh_3494.rip_Tex_015_Mesh_3494.rip_Tex_015_Tex_0153_0.dds_jeans1.png
+    400032: //RootNode
+    2300000: Mesh_3481.rip_Tex_012_Mesh_3481.rip_Tex_012_Tex_0129_0.dds_teeth1.png
+    2300002: Mesh_3483.rip_Tex_013_Mesh_3483.rip_Tex_013_Tex_0132_0.dds.001_eye1.png
+    2300004: Mesh_3483.rip_Tex_013_Mesh_3483.rip_Tex_013_Tex_0132_0.dds_eye1.png
+    2300006: Mesh_3484.rip_Tex_013_Mesh_3484.rip_Tex_013_Tex_0135_0.dds.001_top1.png
+    2300008: Mesh_3484.rip_Tex_013_Mesh_3484.rip_Tex_013_Tex_0135_0.dds.002_top1.png
+    2300010: Mesh_3484.rip_Tex_013_Mesh_3484.rip_Tex_013_Tex_0135_0.dds.003_top1.png
+    2300012: Mesh_3484.rip_Tex_013_Mesh_3484.rip_Tex_013_Tex_0135_0.dds.004_top1.png
+    2300014: Mesh_3484.rip_Tex_013_Mesh_3484.rip_Tex_013_Tex_0135_0.dds_top1.png
+    2300016: Mesh_3487.rip_Tex_014_Mesh_3487.rip_Tex_014_Tex_0141_0.dds.001_face1.png
+    2300018: Mesh_3487.rip_Tex_014_Mesh_3487.rip_Tex_014_Tex_0141_0.dds_face1.png
+    2300020: Mesh_3489.rip_Tex_014_Mesh_3489.rip_Tex_014_Tex_0144_0.dds.001_arm1.png
+    2300022: Mesh_3489.rip_Tex_014_Mesh_3489.rip_Tex_014_Tex_0144_0.dds_arm1.png
+    2300024: Mesh_3494.rip_Tex_015_Mesh_3494.rip_Tex_015_Tex_0153_0.dds.001_jeans1.png
+    2300026: Mesh_3494.rip_Tex_015_Mesh_3494.rip_Tex_015_Tex_0153_0.dds.002_jeans1.png
+    2300028: Mesh_3494.rip_Tex_015_Mesh_3494.rip_Tex_015_Tex_0153_0.dds.003_jeans1.png
+    2300030: Mesh_3494.rip_Tex_015_Mesh_3494.rip_Tex_015_Tex_0153_0.dds_jeans1.png
+    3300000: Mesh_3481.rip_Tex_012_Mesh_3481.rip_Tex_012_Tex_0129_0.dds_teeth1.png
+    3300002: Mesh_3483.rip_Tex_013_Mesh_3483.rip_Tex_013_Tex_0132_0.dds.001_eye1.png
+    3300004: Mesh_3483.rip_Tex_013_Mesh_3483.rip_Tex_013_Tex_0132_0.dds_eye1.png
+    3300006: Mesh_3484.rip_Tex_013_Mesh_3484.rip_Tex_013_Tex_0135_0.dds.001_top1.png
+    3300008: Mesh_3484.rip_Tex_013_Mesh_3484.rip_Tex_013_Tex_0135_0.dds.002_top1.png
+    3300010: Mesh_3484.rip_Tex_013_Mesh_3484.rip_Tex_013_Tex_0135_0.dds.003_top1.png
+    3300012: Mesh_3484.rip_Tex_013_Mesh_3484.rip_Tex_013_Tex_0135_0.dds.004_top1.png
+    3300014: Mesh_3484.rip_Tex_013_Mesh_3484.rip_Tex_013_Tex_0135_0.dds_top1.png
+    3300016: Mesh_3487.rip_Tex_014_Mesh_3487.rip_Tex_014_Tex_0141_0.dds.001_face1.png
+    3300018: Mesh_3487.rip_Tex_014_Mesh_3487.rip_Tex_014_Tex_0141_0.dds_face1.png
+    3300020: Mesh_3489.rip_Tex_014_Mesh_3489.rip_Tex_014_Tex_0144_0.dds.001_arm1.png
+    3300022: Mesh_3489.rip_Tex_014_Mesh_3489.rip_Tex_014_Tex_0144_0.dds_arm1.png
+    3300024: Mesh_3494.rip_Tex_015_Mesh_3494.rip_Tex_015_Tex_0153_0.dds.001_jeans1.png
+    3300026: Mesh_3494.rip_Tex_015_Mesh_3494.rip_Tex_015_Tex_0153_0.dds.002_jeans1.png
+    3300028: Mesh_3494.rip_Tex_015_Mesh_3494.rip_Tex_015_Tex_0153_0.dds.003_jeans1.png
+    3300030: Mesh_3494.rip_Tex_015_Mesh_3494.rip_Tex_015_Tex_0153_0.dds_jeans1.png
+    4300000: Mesh_3481.rip_Tex_012_Mesh_3481.rip_Tex_012_Tex_0129_0.dds_teeth1.png
+    4300002: Mesh_3483.rip_Tex_013_Mesh_3483.rip_Tex_013_Tex_0132_0.dds.001_eye1.png
+    4300004: Mesh_3483.rip_Tex_013_Mesh_3483.rip_Tex_013_Tex_0132_0.dds_eye1.png
+    4300006: Mesh_3484.rip_Tex_013_Mesh_3484.rip_Tex_013_Tex_0135_0.dds.001_top1.png
+    4300008: Mesh_3484.rip_Tex_013_Mesh_3484.rip_Tex_013_Tex_0135_0.dds.002_top1.png
+    4300010: Mesh_3484.rip_Tex_013_Mesh_3484.rip_Tex_013_Tex_0135_0.dds.003_top1.png
+    4300012: Mesh_3484.rip_Tex_013_Mesh_3484.rip_Tex_013_Tex_0135_0.dds.004_top1.png
+    4300014: Mesh_3484.rip_Tex_013_Mesh_3484.rip_Tex_013_Tex_0135_0.dds_top1.png
+    4300016: Mesh_3487.rip_Tex_014_Mesh_3487.rip_Tex_014_Tex_0141_0.dds.001_face1.png
+    4300018: Mesh_3487.rip_Tex_014_Mesh_3487.rip_Tex_014_Tex_0141_0.dds_face1.png
+    4300020: Mesh_3489.rip_Tex_014_Mesh_3489.rip_Tex_014_Tex_0144_0.dds.001_arm1.png
+    4300022: Mesh_3489.rip_Tex_014_Mesh_3489.rip_Tex_014_Tex_0144_0.dds_arm1.png
+    4300024: Mesh_3494.rip_Tex_015_Mesh_3494.rip_Tex_015_Tex_0153_0.dds.001_jeans1.png
+    4300026: Mesh_3494.rip_Tex_015_Mesh_3494.rip_Tex_015_Tex_0153_0.dds.002_jeans1.png
+    4300028: Mesh_3494.rip_Tex_015_Mesh_3494.rip_Tex_015_Tex_0153_0.dds.003_jeans1.png
+    4300030: Mesh_3494.rip_Tex_015_Mesh_3494.rip_Tex_015_Tex_0153_0.dds_jeans1.png
+  materials:
+    importMaterials: 1
+    materialName: 0
+    materialSearch: 1
+  animations:
+    legacyGenerateAnimations: 4
+    bakeSimulation: 0
+    resampleCurves: 1
+    optimizeGameObjects: 0
+    motionNodeName: 
+    animationImportErrors: 
+    animationImportWarnings: 
+    animationRetargetingWarnings: 
+    animationDoRetargetingWarnings: 0
+    animationCompression: 1
+    animationRotationError: 0.5
+    animationPositionError: 0.5
+    animationScaleError: 0.5
+    animationWrapMode: 0
+    extraExposedTransformPaths: []
+    clipAnimations: []
+    isReadable: 1
+  meshes:
+    lODScreenPercentages: []
+    globalScale: 1
+    meshCompression: 0
+    addColliders: 0
+    importBlendShapes: 1
+    swapUVChannels: 0
+    generateSecondaryUV: 0
+    useFileUnits: 1
+    optimizeMeshForGPU: 1
+    keepQuads: 0
+    weldVertices: 1
+    secondaryUVAngleDistortion: 8
+    secondaryUVAreaDistortion: 15.000001
+    secondaryUVHardAngle: 88
+    secondaryUVPackMargin: 4
+    useFileScale: 1
+  tangentSpace:
+    normalSmoothAngle: 60
+    normalImportMode: 0
+    tangentImportMode: 3
+  importAnimation: 1
+  copyAvatar: 0
+  humanDescription:
+    human: []
+    skeleton: []
+    armTwist: 0.5
+    foreArmTwist: 0.5
+    upperLegTwist: 0.5
+    legTwist: 0.5
+    armStretch: 0.05
+    legStretch: 0.05
+    feetSpacing: 0
+    rootMotionBoneName: 
+    hasTranslationDoF: 0
+  lastHumanDescriptionAvatarSource: {instanceID: 0}
+  animationType: 0
+  humanoidOversampling: 1
+  additionalBone: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

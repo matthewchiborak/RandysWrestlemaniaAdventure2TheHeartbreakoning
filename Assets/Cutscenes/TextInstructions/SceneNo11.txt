@@ -1,0 +1,12 @@
+-2~Ambient
+24~1~0~L~Shawn Michaels~1~0~0~Alright. He's gotta be around here some where. 
+-10~Crisis
+24~1~9~RW~Mick Foley~0.5~0.25~0.1~Huh?! Who there's?!
+24~1~9~L~Shawn Michaels~1~0~0~There you are Mick! Surrender your shampoo!
+24~1~9~RW~Mick Foley~0.5~0.25~0.1~No! It's for Socko! You can't have it!
+24~1~9~L~Shawn Michaels~1~0~0~You've lost it Foley! And you will lose this match!
+24~1~9~RW~Mick Foley~0.5~0.25~0.1~No! I refuse to give you anything! You're just as bad as the others! No Mick! Don't take that! We need that case! We can't activate it without it! Also stop filling our pillows with cookie crumbs! We're real tired of it!
+24~1~9~L~Shawn Michaels~1~0~0~Activate? Activate what?! What is Hell in the Cell planning!
+24~1~9~RW~Mick Foley~0.5~0.25~0.1~What's with everyone today?! Everyone's more interested in this stupid case than what I need. Hmm? What's that Socko? You want his boots? Okay. I'll go get them for you. 
+24~1~9~L~Shawn Michaels~1~0~0~Hey! No one. And I mean NO ONE touches my stompin' boots unless I say so. And I say that only your chin is allowed to touch them!
+24~1~9~RW~Mick Foley~0.5~0.25~0.1~Hey! Shut your role and know your mouth. Socko, let's get him!

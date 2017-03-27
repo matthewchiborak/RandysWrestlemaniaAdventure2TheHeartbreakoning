@@ -1,0 +1,58 @@
+-9~Forest
+35~25~0~L~Abe Lincoln~1~0.5~0.25~AND THE WINNER IS...I never got your name.
+23~1~25~L~Shawn Michaels~1~0~0~Shawn Michaels.
+23~1~25~R~Abe Lincoln~1~0.5~0.25~SHAWN MICHAELS! YOUR NEW. WWE. HEAVYWEIGHT CHAMPION! You showed excellent wrestling out there!
+23~1~25~L~Shawn Michaels~1~0~0~Oh. Well thanks.
+23~1~25~R~Abe Lincoln~1~0.5~0.25~I really loved the way you knocked them out by applying your foot to their chins. What do you call that move?
+23~1~25~L~Shawn Michaels~1~0~0~Sweet chin music.
+23~1~25~R~Abe Lincoln~1~0.5~0.25~Sweet chin music! I love it! You know what kid. You're one of the best wrestlers I have ever seen. With some more practice, you could become even better than me!
+23~1~25~L~Shawn Michaels~1~0~0~Uh great thanks. But I should really be getting back now.
+23~1~25~R~Abe Lincoln~1~0.5~0.25~So soon? You are the champion! You deverse to celebrate! Well if you insist. Are you sure there isn't anything you need.
+23~1~25~L~Shawn Michaels~1~0~0~Not unless you have a way to travel through...wait a minute. Is this the real belt?
+23~1~25~R~Abe Lincoln~1~0.5~0.25~Yes of course! You're the WWE champion! The title is yours!
+23~1~25~L~Shawn Michaels~1~0~0~I remember hearing that Orton used the belt four years ago to travel through time! I can use it to get back to my own time!
+23~1~25~R~Abe Lincoln~1~0.5~0.25~There you go! I'm glad I was of help.
+23~1~25~L~Shawn Michaels~1~0~0~Thank you Mr.President. I won't forget what you did for me.
+23~1~25~R~Abe Lincoln~1~0.5~0.25~I'm happy to help wherever and whenever I can. And please. Call me Abe.
+-1~Silence
+-109~TimeTravel
+22~0~0~N
+-2~Ambient
+0~17~13~R~The Shockmaster~0.5~0.5~0.5~Any luck with the drive yet?
+0~17~13~L~Sting~1~1~1~Nope. Still working on it.
+0~17~13~R~The Shockmaster~0.5~0.5~0.5~Thought I'd try...
+0~17~13~R~The Shockmaster~0.5~0.5~0.5~...
+0~17~13~R~The Shockmaster~0.5~0.5~0.5~So...Got anything you wanna talk about? You're always so quiet.
+0~17~13~L~Sting~1~1~1~Not really. Hmm...Well I suppose there is something that's caught my attention.
+0~17~13~R~The Shockmaster~0.5~0.5~0.5~Huh? And what exactly is it?
+0~17~13~L~Sting~1~1~1~That necklace you're wearing. It looks valuable. Why wear something that valuable on a wrestling mission? It's likely to be damaged here.
+0~17~13~R~The Shockmaster~0.5~0.5~0.5~It was my father's actually. When he died, all he left me was this necklace and a note. It serves as a reminder for me to follow his ideals and enact justice on evil.
+0~17~13~L~Sting~1~1~1~Well if you need a reminder, you can just get another tattoo. Keep the necklace safe at home.
+0~17~13~R~The Shockmaster~0.5~0.5~0.5~Uhhhh...Yes...I've definitely thought of that before. 
+0~17~13~L~Sting~1~1~1~Sure whatever you say.
+-111~Crash
+0~1~13~L~Shawn Michaels~1~0~0~Ahhh!
+0~1~13~R~The Shockmaster~0.5~0.5~0.5~Shawn! You're back! Did you do it? Did you find Big Show? Do you know how to find Cena?
+0~1~13~L~Shawn Michaels~1~0~0~No! The time machine was a bust! It sent me to the wrong time. Abe Lincoln was there. There were a lot of bears. It was weird man.
+0~1~13~R~The Shockmaster~0.5~0.5~0.5~I was afraid of this...
+0~1~13~L~Shawn Michaels~1~0~0~Now what do we do?
+0~1~13~R~The Shockmaster~0.5~0.5~0.5~There is one other thing we could do but it's risky...I've only done it once before.
+0~1~13~L~Shawn Michaels~1~0~0~Well these maniacs have to be stopped. Whatever the risk is, it's worth taking. What do we need?
+0~1~13~R~The Shockmaster~0.5~0.5~0.5~Okay. As long as you understand the risks.
+0~1~13~R~The Shockmaster~0.5~0.5~0.5~We're going to need shampoo.
+0~1~13~L~Shawn Michaels~1~0~0~Shampoo. Okay...Wait what? Shampoo?
+0~1~13~R~The Shockmaster~0.5~0.5~0.5~We're going to need shampoo. Trust me on this one.
+0~1~13~L~Shawn Michaels~1~0~0~Well if you say so.
+0~1~13~R~The Shockmaster~0.5~0.5~0.5~The only problem is Foley raided the entire place of shampoo. He likely knew this trick and Hell in the Cell is trying to prevent us from using it.
+0~1~13~L~Shawn Michaels~1~0~0~Actually I overheard them talking. Apparently Foley has gone rogue.
+0~1~13~R~The Shockmaster~0.5~0.5~0.5~Rogue? You sure?
+0~1~13~L~Shawn Michaels~1~0~0~Yeah. They said that he took a case and that they needed to find him to get the case back.
+0~1~13~R~The Shockmaster~0.5~0.5~0.5~He has the case too! This is perfect. We may just pull this off...
+0~1~13~L~Shawn Michaels~1~0~0~What's so important about this case?
+0~1~13~R~The Shockmaster~0.5~0.5~0.5~There's no time to explain! We have to find Foley immediately!
+0~17~13~L~Sting~1~1~1~I'm not surprised he went rogue. He never was all there. I've been all over this place. If he's anywhere, he'll be hiding up on the rafters above the ring. You can get there by taking the maintainance ladder in the stairwell.
+0~17~1~R~Shawn Michaels~1~0~0~The stairwell? That's on the west side of the ring isn't it? I can't get there! I don't have a high enough key card.
+0~17~1~L~Sting~1~1~1~Actually I checked the doors. None of them are actually locked. You just never bothered checking and just assumed they were locked.
+0~17~1~R~Shawn Michaels~1~0~0~Oh. Right. I knew that.
+0~13~1~L~The Shockmaster~0.5~0.5~0.5~Right. Sting will keep working on that drive. I'll make preparations. We'll meet up in the ring when we're all ready. Just get that shampoo.
+0~13~1~R~Shawn Michaels~1~0~0~Understood.

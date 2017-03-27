@@ -1,0 +1,11 @@
+-110~
+0~0~0~L~Shawn Michaels~1~0~0~Uh! What happened? It's like I ran into something!
+0~0~3~R~Cena~0~1~0~Shawn. Be careful. I'm now detecting the presence of a force field.
+0~0~3~L~Shawn Michaels~1~0~0~I think I found it.
+0~0~3~R~Cena~0~1~0~It appears to be coming from the cannon. It must be a kind of protection mechanism.
+0~0~3~L~Shawn Michaels~1~0~0~Dammit! If I don't get over to the cannon and stop Trump soon, he'll destroy the country! Cena, do you know any way through the field?
+0~0~3~R~Cena~0~1~0~If you had enough thrust you could blast right though it. Unfortunately your body is unable to generate anywhere near enough thrust to do so.
+0~0~3~L~Shawn Michaels~1~0~0~Damn! 
+0~0~3~R~Cena~0~1~0~If you had two thrusters you could be able to get through.
+0~0~3~L~Shawn Michaels~1~0~0~I'm in space! There's no extra thrusters lying around. I need help!
+0~0~0~R~???~0.5~0.25~0~Did someone say they needed help?

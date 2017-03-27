@@ -1,0 +1,193 @@
+-13~BeforeFinal
+34~26~1~R~Shawn Michaels~1~0~0~Trump!
+34~26~8~R~Goldust~1~1~0~It would appear we have company...
+34~26~8~L~Donald Trump~0.5~0.5~0.5~Oh come on Dusty. Every show needs an audience.
+34~26~1~L~Donald Trump~0.5~0.5~0.5~Shawn! So you finally made it. I was wondering if you were up to the task or not. Oh! And you're brought along some guests.
+34~29~1~R~Shawn Michaels~1~0~0~Oh! Hey guys. How did you guys get up here so quickly?
+34~29~1~L~Randy Orton~0.5~0.5~0.5~We took the elevator.
+34~29~1~R~Shawn Michaels~1~0~0~Oh. Yes. I definitely knew there was one...
+34~26~7~RW~Steve Austin~0~0~0~Plump! You made a fool of me! You played me like a damn fiddle!
+34~26~32~R~Cena~0~1~0~Can you not C the consequences of your actions here today?
+34~26~29~R~Randy Orton~0.5~0.5~0.5~It's over Trump! Give us the case!
+34~26~29~L~Donald Trump~0.5~0.5~0.5~Oh? Are you refering to this case?
+34~26~1~R~Shawn Michaels~1~0~0~It's open! We're too late! He already has the weapon.
+34~26~1~L~Donald Trump~0.5~0.5~0.5~You are correct. You are too late. So considering you cannot stop me and you've all been very entertaining I will explain to you what I'm going to do with it.
+34~26~8~R~Goldust~1~1~0~Please sir. This is hardly the time...
+34~26~8~L~Donald Trump~0.5~0.5~0.5~Nonsence. Now where to begin. 
+34~26~1~L~Donald Trump~0.5~0.5~0.5~I became President in order to achieve my dream of making the world a better place of peace and freedom. That's why I did things like form the Hell in the Cell. And together were achieved world peace, destroyed famine, and cured cancer.
+34~26~1~L~Donald Trump~0.5~0.5~0.5~However, one aspect of the world always eluded my influence.
+34~26~1~L~Donald Trump~0.5~0.5~0.5~Wrestling.
+34~26~1~R~Shawn Michaels~1~0~0~Wrestling?
+34~26~1~L~Donald Trump~0.5~0.5~0.5~Yes. The good old WWE! No matter what I did, if a match I influenced to swing towards the side of truth, justice, and the betterment of society, sometimes the other opponent would win.
+34~26~1~L~Donald Trump~0.5~0.5~0.5~But then, four years ago at Wrestlemania, I discovered the truth. I wanted to discover why the WWE was so unusual. And so I had my associate Goldust here rig all of Orton's matches in his opponent's favour in order to force him to cheat in a match to force him to win and see what resulted from the events.
+34~26~1~L~Donald Trump~0.5~0.5~0.5~And from that I discovered the truth.
+34~26~1~L~Donald Trump~0.5~0.5~0.5~Did you not find it bizarre that newspapers reporting on the matches at Wrestlemania reported that Cena won that match that Orton won by using a chair he hid near the ring?
+34~26~1~L~Donald Trump~0.5~0.5~0.5~It was because the newspapers were made in advance. The truth is...
+-1~Silent
+34~26~1~L~Donald Trump~0.5~0.5~0.5~Wrestling is scripted.
+-118~Dun
+34~26~1~N
+-17~Looks
+34~26~1~R~Shawn Michaels~1~0~0~What? What are you talking about. It's fake? That's impossible! It feels real to me dammit!
+34~26~1~L~Donald Trump~0.5~0.5~0.5~That's what they want you to believe. It's made to make it feel as real as possible so you don't suspect it isn't real. It's only when you take a real close look do you realise the truth. 
+34~26~1~R~Shawn Michaels~1~0~0~Stop your lies!
+34~26~1~L~Donald Trump~0.5~0.5~0.5~Lies huh? Well how do you explain this!
+34~26~1~R~Shawn Michaels~1~0~0~What is that? A book? Why was there a book inside the case?
+34~26~1~L~Donald Trump~0.5~0.5~0.5~This? This is the script!
+34~26~1~R~Shawn Michaels~1~0~0~Bullshit!
+34~26~1~L~Donald Trump~0.5~0.5~0.5~Oh don't believe me huh? Hold on let me put on my reading glasses.
+34~36~1~L~Donald Trump~0.5~0.5~0.5~Shawn Michaels arrives in the forest clearing greeted by Abe Lincoln. He is just in time for the Royal Rumble where he defeats the six bear opponents and earns the title.
+34~36~1~R~Shawn Michaels~1~0~0~That's...how...That's exactly what happened?! How they hell did you know!
+34~36~1~L~Donald Trump~0.5~0.5~0.5~If it's a wrestling match, it's all in here. Every match is written and predetermined.
+34~36~1~R~Shawn Michaels~1~0~0~What no...
+34~36~7~RW~Steve Austin~0~0~0~That can't be true...
+34~36~29~R~Randy Orton~0.5~0.5~0.5~And yet it appears that it is. Who Trump? Who is responsible for this!
+34~36~29~L~Donald Trump~0.5~0.5~0.5~No one knows exactly who, all we know is that it is decided by...
+34~36~29~L~Donald Trump~0.5~0.5~0.5~The Federation!
+34~36~1~R~Shawn Michaels~1~0~0~The Federation? Why does that sound familiar?... How do you know all this?
+34~36~1~L~Donald Trump~0.5~0.5~0.5~Four years ago I just wanted to know what was happening. I discovered more than I bargined for.
+34~36~1~L~Donald Trump~0.5~0.5~0.5~Not only did I learn about the plans for the weapon that I now hold in my hands, I also learned about the existance of the Federation.
+34~36~1~L~Donald Trump~0.5~0.5~0.5~And that's why I'm here today! To put an end to the Federation.
+34~36~1~R~Shawn Michaels~1~0~0~End the Federation?
+34~36~1~L~Donald Trump~0.5~0.5~0.5~Exactly. After my actions at Wrestlemania, the Federation took notice. I came back to the White House to find my power greatly reduced. The timing was too perfect for it not to be the Federation's doing.
+34~36~1~L~Donald Trump~0.5~0.5~0.5~I feared what they may be doing and today my fears were realized with this!
+34~36~1~R~Shawn Michaels~1~0~0~There was another book in the case!
+34~36~1~L~Donald Trump~0.5~0.5~0.5~Yes! There exists another script! This one far more dangerous...
+34~36~1~R~Shawn Michaels~1~0~0~What's in it?
+34~36~1~L~Donald Trump~0.5~0.5~0.5~Medical records, stock market prices, military reports, even weather forecasts. The Federation is expanding their jurisdiction to not just Wrestling. They want to control everything. A removal for freedom. A death to freewill.
+34~36~1~R~Shawn Michaels~1~0~0~What!
+34~36~1~L~Donald Trump~0.5~0.5~0.5~Yes! That is why I must destroy the Federation. To preserve freedom. People derverse real free choice not the illusion of it. 
+34~36~1~L~Donald Trump~0.5~0.5~0.5~And that is what I will do today! I will use this weapon to destroy the Federation!
+34~36~1~R~Shawn Michaels~1~0~0~Wait like blow them up? Do you know where they are?
+34~36~1~L~Donald Trump~0.5~0.5~0.5~From what I learned while I was in office all I know is that they are somewhere in America. So if I destroy all of America with the weapon, the Federation will go with them.
+34~36~1~R~Shawn Michaels~1~0~0~Wait what?! Destroy America! Are you insane! Millions of innocent people will die!
+34~36~1~L~Donald Trump~0.5~0.5~0.5~We're making the ultimate freedom omelette, Shawn. Can't fret over every egg.
+34~36~1~R~Shawn Michaels~1~0~0~I can't let you do that Donny!
+34~36~1~R~Shawn Michaels~1~0~0~Prepare your chin Trump! Here I come!
+-1~Silent
+-119~Click
+34~36~1~N
+-120~Shot
+34~36~1~N
+-121~Exlposion
+34~36~37~N
+-14~Tragic
+34~36~29~R~Randy Orton~0.5~0.5~0.5~SHAWN!!!!!!!!!!!!!!!!!!!!!
+34~36~29~L~Donald Trump~0.5~0.5~0.5~Hmm. Even with all that stalling the satellite cannon only charged to 1% power. Oh well it was more than enough to get the job done.
+34~36~29~R~Randy Orton~0.5~0.5~0.5~You monster!
+34~36~29~L~Donald Trump~0.5~0.5~0.5~Call me whatever you like. You won't have long to do so. The current charge will be more than enough to eliminate the rest of you. Then I can turn my attention to the Federation.
+-1~Silence
+34~0~36~R~Donald Trump~0.5~0.5~0.5~Huh?! The cannon controller!
+-4~Urian
+34~42~36~R~Donald Trump~0.5~0.5~0.5~Goldust! What are you doing?! Give me back the controls!
+34~42~36~L~Goldust~1~1~0~I'm afraid I can't let you do that Donald. We still need them.
+34~42~36~R~Donald Trump~0.5~0.5~0.5~Goldust? What are you talking about?! We don't need them.
+34~42~36~L~Goldust~1~1~0~This doesn't involve you. You are no longer needed. The mission was a success.
+34~42~36~R~Donald Trump~0.5~0.5~0.5~What are you talking about? Who are you?
+34~42~36~L~Goldust~1~1~0~I am an agent of the Federation. And today's experiment was a great success.
+34~42~29~R~Randy Orton~0.5~0.5~0.5~The Federation! Great success? What is going on?!
+34~42~29~L~Goldust~1~1~0~Donald here was correct. We are expanding to include more than just wrestling. However, what Donald was not aware of was that his plan to take out the Federation here today was not his plan. It was ours. 
+34~42~36~R~Donald Trump~0.5~0.5~0.5~What!
+34~42~36~L~Goldust~1~1~0~Look at page 156 of the script you have there.
+34~42~36~R~Donald Trump~0.5~0.5~0.5~My god! My whole plan! It's in here! It's playing out exactly how it's written in here!
+34~42~36~L~Goldust~1~1~0~Four years ago, our influence faultered. Outside influences changed our determined wrestling outcome. It became clear that in order to have total influence over something, we must have influence over everything.
+34~42~36~L~Goldust~1~1~0~Today we were testing if our planned methods of influencing more than just wresting would work. So we decided to see if we could recreate a certain historical event right here today.
+34~42~36~L~Goldust~1~1~0~And what better event to try to recreate than the one that pushed our desire to expand past wrestling.
+34~42~36~L~Goldust~1~1~0~The incident at Wrestlemania four years ago...
+34~42~29~R~Randy Orton~0.5~0.5~0.5~What are you talking about?!
+34~42~29~L~Goldust~1~1~0~Having a person digused as someone else murderering people. Vince McMahon captured and in need of rescue. A band of wrestlers who includes Orton, Sting, and Austin must work together to defeat him with the use of things like time travel and travelling to the land of the dead. The defeat of Cena. There are no coincidences here...
+34~42~29~L~Goldust~1~1~0~And you all played your parts perfectly. We were able to influence every minor detail of the decisions you made from everywhere. 
+34~42~29~L~Goldust~1~1~0~With the success of this experiment, I'm afraid I must take my leave and report my findings so that we can move onto the next phase.
+-122~Heli
+34~43~42~L~Sgt. Slaughter~0~1~0~Hey! Goldust! Are you ready to go!
+34~43~42~R~Goldust~1~1~0~Hold on! Austin. You're still of use to us. Get on the helicopter.
+34~42~7~RW~Steve Austin~0~0~0~I'm so confused...
+34~42~7~L~Goldust~1~1~0~I SAID GET ON!
+34~42~7~RW~Steve Austin~0~0~0~Okay! Okay! I'm going!
+34~42~29~R~Randy Orton~0.5~0.5~0.5~I won't let you get away with this.
+34~42~29~L~Goldust~1~1~0~Orton. You've been a pain in my ass for a long time now. I'm going to enjoy this...
+-1~Silence
+-100~Shot
+34~42~17~R~Sting~1~1~1~No!
+-114~Scream
+34~29~38~R~Sting~1~1~1~Uggggggggh!
+-14~Traggic
+34~29~38~L~Randy Orton~0.5~0.5~0.5~Sting! Oh god! Why?! Why'd you save me! You were one day away from retirement!
+34~29~38~R~Sting~1~1~1~Please...Take off my mask...
+34~29~38~L~Randy Orton~0.5~0.5~0.5~Hmm? You already took off your mask.
+34~29~38~R~Sting~1~1~1~No...The mask I wear under my mask...
+34~29~39~L~Randy Orton~0.5~0.5~0.5~D...Dad?!?!?!
+34~29~39~R~Bob Orton~1~1~1~We did good work today son didn't we...We almost had them...
+34~29~39~L~Randy Orton~0.5~0.5~0.5~What...You were alive this whole time! But what about the note that you left me!
+34~29~39~L~Randy Orton~0.5~0.5~0.5~You said the man who had the same necklace was the man who would kill you! I killed Bret Hart to avenge you! Was that all a lie?!
+34~29~39~R~Bob Orton~1~1~1~No it wasn't a lie. He did kill me.
+34~29~39~R~Bob Orton~1~1~1~He killed my soul.
+34~29~39~L~Randy Orton~0.5~0.5~0.5~Dad! Hang in there!
+34~29~39~R~Bob Orton~1~1~1~It's my time to go son...I'm real proud of you...
+-1~silence
+34~29~39~R~Bob Orton~1~1~1~Uggggggggghhhhhh...
+34~29~0~L~Randy Orton~0.5~0.5~0.5~...
+-123~Noooooo
+34~29~0~L~Randy Orton~0.5~0.5~0.5~AAAAAAAAAAAAAAAAAARRRRRRRRRRRRRRRRRRRRRUUUUUUUUUUUUUUUUGGGGGGGGGGGGGGGGGHHHHHHHHHHHHHHHHHHHHHHHHH!
+-5~Intence
+34~42~29~R~Randy Orton~0.5~0.5~0.5~GOLDUST!!!!!!!!!!!!!!!!!!!!!!
+34~42~29~L~Goldust~1~1~0~I'm so sorry for you loss Orton.
+34~42~29~R~Randy Orton~0.5~0.5~0.5~YOU'LL PAY FOR WHAT YOU'VE DONE!
+34~42~29~L~Goldust~1~1~0~Sorry! I can't hear you over me pulling the trigger!
+-1~Silence
+34~42~29~L~Goldust~1~1~0~Huh?!?!
+34~42~29~L~Goldust~1~1~0~What's wrong with my body?! I can't move?!
+34~42~29~R~Randy Orton~0.5~0.5~0.5~What are you playing at now Goldust?! I've had enough of your tricks!
+34~42~29~L~Goldust~1~1~0~What's...happening!!!!
+-16~Grandeur
+-114~Scream
+34~42~29~L~Goldust~1~1~0~AHHHHHHHHHHHHHHHHHH!!!!!
+34~42~29~R~Randy Orton~0.5~0.5~0.5~What in the world?!
+34~42~29~L~???~1~1~1~Hahahahaha! It's good to be back. I'm glad I saved up my shampoo from the years I never had to use it!
+34~42~29~R~Randy Orton~0.5~0.5~0.5~What's going on!
+34~41~29~L~Big Show~1~1~1~It is I! The Big Show! I'm now in the driver's seat!
+34~41~29~R~Randy Orton~0.5~0.5~0.5~What in the world! Are you possessing him?
+34~41~29~L~Big Show~1~1~1~Yes! Four years ago at Wrestlemania I learned that Goldust was an agent of the Federation. So when Shawn Michaels informed me that I had been killed, I knew it had to have been the Federation's doing.
+34~41~29~L~Big Show~1~1~1~And so! I have taken my revenge on Goldust by taking ownership of his body!
+34~41~29~R~Randy Orton~0.5~0.5~0.5~What are you going to do Big Show?!
+34~41~29~L~Big Show~1~1~1~Me? Get revenge on the Federation of course! Or at least screw up their plans as much as possible. Goldust said he needed Austin. I think I'll take him for myself. Get out of here Sargeant.
+-114~Scream
+34~41~0~R~Sgt. Slaughter~0~1~0~Ahhhhhhhhhhhhhhhhhhhhh!
+34~0~29~L~Big Show~1~1~1~Farewell, Orton! Oh and thanks for the apology you gave me four years ago.
+34~0~29~R~Randy Orton~0.5~0.5~0.5~Big Show! Wait! Damn. He's gone.
+34~0~29~R~Randy Orton~0.5~0.5~0.5~Huh! He dropped the satellite controls! Must have been when Big Show possessed him!
+-13~Unfinsied
+34~36~29~L~Donald Trump~0.5~0.5~0.5~I'll take that.
+34~36~29~R~Randy Orton~0.5~0.5~0.5~Trump! No!
+34~36~29~L~Donald Trump~0.5~0.5~0.5~This wasn't in the script. My dream can still come true!
+34~36~29~R~Randy Orton~0.5~0.5~0.5~Dammit! I can't stop both Big Show and Trump! What do I do!
+34~29~32~R~Cena~0~1~0~Hey Orton! I'm back.
+34~29~32~L~Randy Orton~0.5~0.5~0.5~Cena! Where were you?!
+34~29~32~R~Cena~0~1~0~I was using the spare parts from my fallen brother to put something together.
+34~29~32~R~Cena~0~1~0~Or should I say, back together. Something that was broken...
+34~29~32~R~Cena~0~1~0~Heart-broken.
+34~29~40~R~Shawn Michaels~1~0~0~Shawn Michaels has left the building!
+34~29~40~L~Randy Orton~0.5~0.5~0.5~Perfect timing. Cena. You start evacuating the country just in case. Shawn I'm leaving Trump to you.
+34~29~40~R~Shawn Michaels~1~0~0~What about you?
+34~29~40~L~Randy Orton~0.5~0.5~0.5~I'm going after Big Show.
+34~29~40~R~Shawn Michaels~1~0~0~Understood. And Randy!
+34~29~40~L~Randy Orton~0.5~0.5~0.5~Yeah?
+34~29~40~R~Shawn Michaels~1~0~0~Go kill that legend.
+34~40~36~L~Shawn Michaels~1~0~0~Trump!!!!!
+34~40~36~R~Donald Trump~0.5~0.5~0.5~Give up, Jack! You can't stop me.
+34~40~36~L~Shawn Michaels~1~0~0~Wait what? Jack? It's me. Shawn Michaels. And no! I will put a stop to your twisted plan. My title against your title!
+34~40~36~R~Donald Trump~0.5~0.5~0.5~You're siding with the Federation! Do you want no one to have free will? Do you hate freedom, Jack!
+34~40~36~L~Shawn Michaels~1~0~0~I'm siding with America! And all those innocent people you'd be killing.
+34~40~36~R~Donald Trump~0.5~0.5~0.5~The Federation is based in America! It's beyond saving. I'm protecting freedom for the rest of the world. 
+34~40~36~L~Shawn Michaels~1~0~0~Not if I have anything to say about it.
+34~40~36~R~Donald Trump~0.5~0.5~0.5~You'll never be able to defeat me...
+-1~Silence
+1007~120.35
+-5~
+34~40~36~R~Donald Trump~0.5~0.5~0.5~What I'm talking about? I'm talking about defeating you. You're just another stepping stone on my way to achieving my dream!
+34~40~36~L~Shawn Michaels~1~0~0~If you're gonna use me as a stepping stone, you'd better step hard!
+34~40~36~R~Donald Trump~0.5~0.5~0.5~Ha. Well if you insist...
+-1~Silence
+1008~150.65
+-110~
+34~40~36~N

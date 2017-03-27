@@ -1,0 +1,76 @@
+-9~ShawnMichaels
+24~1~9~L~Shawn Michaels~1~0~0~It's over Foley!
+24~1~9~RW~Mick Foley~0.5~0.25~0.1~Nooooooo! Give me back Socko! Don't hurt him! Spare me! You can't kill me! Who do you think you are!
+24~1~9~L~Shawn Michaels~1~0~0~I am the showstopper. The main event. The Icon that can still go.
+24~1~9~RW~Mick Foley~0.5~0.25~0.1~AHHHHHHHHHHHHHH!
+-112~sweetChinMusic
+25~0~0~N
+26~0~0~N
+-113~Stomp
+27~0~0~N
+27~1~0~L~Shawn Michaels~1~0~0~That's one small step for man,
+-114~Scream
+28~0~0~N
+-1~Silence
+-111~Crash
+29~0~0~N
+24~1~0~L~Shawn Michaels~1~0~0~One giant heap on Mankind.
+-2~Ambient
+8~1~13~R~The Shockmaster~0.5~0.5~0.5~Shawn! What was that?!
+8~1~13~L~Shawn Michaels~1~0~0~The sound of me getting the shampoo.
+8~1~13~R~The Shockmaster~0.5~0.5~0.5~Excellent! Perfect timing! I just finished the preparations.
+8~1~13~L~Shawn Michaels~1~0~0~Okay what do we have to do?
+8~1~13~R~The Shockmaster~0.5~0.5~0.5~Okay. First we have to put on these...
+8~27~28~L~Shawn Michaels~1~0~0~Why are we wearing these?
+8~27~28~R~The Shockmaster~0.5~0.5~0.5~It's needed for the ritual.
+8~27~28~L~Shawn Michaels~1~0~0~Huh?! Someone's making his way to the ring!
+8~27~18~R~Vince McMahon~0~0~1~Please! Save me!
+8~27~18~L~Shawn Michaels~1~0~0~Vince?! How the hell are you here?!
+8~27~18~R~Vince McMahon~0~0~1~I managed to get away. Quick! You have to listen to me!...God they're going to kill me...
+8~27~18~R~Vince McMahon~0~0~1~There's...There's a weapon! And Hell in the Cell wants to use it! But they need the case and me to use it.
+8~27~28~R~The Shockmaster~0.5~0.5~0.5~Of course...I heard rumours about a new super weapon but I didn't think it to be true.
+8~27~18~L~Shawn Michaels~1~0~0~Don't worry Vince. You're safe now. We won't let them use the weapon.
+8~27~18~R~Vince McMahon~0~0~1~Oh no! He found me! He's coming down to the ring now!
+-1~Silence
+1003~65.25
+-4~Intense
+8~26~27~R~Shawn Michaels~1~0~0~Who? Who are you?!
+8~26~27~L~Randy Orton~0.5~0.5~0.5~I am Randy Orton!
+8~26~29~R~The Shockmaster~0.5~0.5~0.5~No! That is not Randy Orton!
+8~26~29~L~Randy Orton~0.5~0.5~0.5~What a pleasant surprise, friend.
+8~26~29~R~The Shockmaster~0.5~0.5~0.5~You're no friend of mine.
+8~26~29~L~Randy Orton~0.5~0.5~0.5~Don't say you've forgotten me...
+8~26~29~L~Randy Orton~0.5~0.5~0.5~Orton!
+-1~Silence
+-115~Gasp
+8~26~27~R~Shawn Michaels~1~0~0~ 
+-5~Battle
+8~26~29~R~Randy Orton~0.5~0.5~0.5~Of course I remember you. How could I forget...
+8~26~29~R~Randy Orton~0.5~0.5~0.5~The founder of Hell in the Cell himself...
+8~26~29~R~Randy Orton~0.5~0.5~0.5~Former President Donald Trump!
+8~26~29~L~Donald Trump~0.5~0.5~0.5~Enough of this charade.  Yes I have been impersonating you for several months now acting as leader of Hell in the Cell. People fear you Randy. When they hear Orton is leading their attackers they scatter. I gathered up the other former members and they agreed to pretend I was Orton to help achieve my dream.
+8~26~7~RW~Steve Austin~0~0~0~Wait! You aren't Borton?!
+8~26~29~L~Donald Trump~0.5~0.5~0.5~Okay mostly agreed.
+8~26~29~L~Donald Trump~0.5~0.5~0.5~But it matters not when I now have this!
+8~26~29~R~Randy Orton~0.5~0.5~0.5~Oh no! The case!
+8~26~29~L~Donald Trump~0.5~0.5~0.5~Thank you for finding and disposing of Foley for us.
+8~26~29~R~Randy Orton~0.5~0.5~0.5~Damn! We played right into his plans.
+8~26~18~L~Donald Trump~0.5~0.5~0.5~And Vince! I'm glad you're here! Now that I have the case I no longer have a need for you.
+8~26~18~RW~Vince McMahon~0~0~1~Nooooooooooooooooo!
+-1~Silence
+1004~17.25
+-11~Sorrow
+8~27~26~R~Donald Trump~0.5~0.5~0.5~I'll bid you farewell
+8~27~26~L~Shawn Michaels~1~0~0~Vince! Noooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooo
+8~27~26~L~Shawn Michaels~1~0~0~oooooooooooo! Trump! Get back here! I'm take you on right here! Right now! My title against your title!
+8~27~29~R~Randy Orton~0.5~0.5~0.5~No Shawn. We need you to find Big Show. That's the only way we can stop them. Sting and I will go after him.
+8~27~29~L~Shawn Michaels~1~0~0~Fine. But I swear. I will get revenge for what you did to me. And vengeance for Vince. I will have my revengeance.
+8~27~29~R~Randy Orton~0.5~0.5~0.5~You will Shawn. Now I'm sending you in. Oh and watch out for the lost souls. They'll want your shampoo.
+8~27~29~L~Shawn Michaels~1~0~0~Wait what are you doing with that knife?!
+-116~Stab
+8~27~29~L~Shawn Michaels~1~0~0~AHHHHHHHHHHHHHHHHHHHHHHHHHHHH!
+-1~Silence
+13~1~0~L~Shawn Michaels~1~0~0~Huh?! Where...Where am I?
+13~1~0~L~Shawn Michaels~1~0~0~That's right. Big Show! I can't get distracted. I've got to find him. He's got to be around here somewhere...
+-101~Pickup
+32~0~0~N

@@ -1,0 +1,44 @@
+-4~IntenceUrian
+-104~Laugh
+8~1~8~R~Goldust~1~1~0~Hahahahaha! Is that all you got kid!
+8~1~8~L~Shawn Michaels~1~0~0~He's too strong! I can't keep this up.
+8~1~8~R~Goldust~1~1~0~Enough goofing around. It's time to get serious.
+-2~Silence
+-100~Shot
+8~1~8~R~Goldust~1~1~0~Wha!
+8~1~8~L~???~0.5~0.5~0.5~That's enough Goldust
+8~1~8~R~Goldust~1~1~0~Who's there?!
+-5~Unfinished
+8~8~13~R~???~0.5~0.5~0.5~Surrender yourself.
+8~8~13~L~Goldust~1~1~0~Right on schedule. Well I'm clearly out numbered here. I'll have to kill you later. 
+8~1~13~L~Shawn Michaels~1~0~0~Goldust! Get back here!
+8~1~13~R~???~0.5~0.5~0.5~Let him go. He's just a pawn following his leader's orders. He'll have a chance to turn himself in later.
+8~1~13~L~Shawn Michaels~1~0~0~Yeah whatever. But if we run into him again, his chin is going to play some sweet sweet music.
+8~1~13~R~???~0.5~0.5~0.5~He almost killed you. You shouldn't fight battles you can't win.
+8~1~13~L~Shawn Michaels~1~0~0~Look here whoever you are! I appreciate you saving me just now, but NO ONE tells me what to do... Actually yeah who the hell are you?
+-2~Gentle
+-105~Shockmaster
+8~1~13~R~The Shockmaster~0.5~0.5~0.5~They call me... The Shockmaster.
+8~1~13~L~Shawn Michaels~1~0~0~Shockmaster?
+8~1~13~R~The Shockmaster~0.5~0.5~0.5~Yes. I'm a sniper in the military group that was stationed here today. 
+8~1~13~L~Shawn Michaels~1~0~0~The military group? But they were all killed? I saw them.
+8~1~13~R~The Shockmaster~0.5~0.5~0.5~I managed to escape.
+8~1~13~L~Shawn Michaels~1~0~0~Well alright. If we work together as a tag team we should have a better chance of completing the mission.
+8~1~13~R~The Shockmaster~0.5~0.5~0.5~The mission. Right. Yes. 
+8~1~13~L~Shawn Michaels~1~0~0~Yeah the mission. Rescueing Vince McMahon and the other hostages. That one.
+8~1~13~R~The Shockmaster~0.5~0.5~0.5~Ah yes right. That mission of course. Did you say Vince McMahon was here?
+8~1~13~L~Shawn Michaels~1~0~0~Well yeah. He's why we're here. I got a lead that he's been hiding in the gym with some of the other hostages but the door's locked and I can't find another way to get over there.
+8~1~13~R~The Shockmaster~0.5~0.5~0.5~Locked huh. Well here. I took this off a guard earlier. It's a level 1 key card for the stadium. It should get you through any level 1 locked doors including the one leading to the gym.
+8~1~13~L~Shawn Michaels~1~0~0~Oh thanks! You're not coming with me?
+8~1~13~R~The Shockmaster~0.5~0.5~0.5~I'll meet up with you later. I need to check on something first.
+8~1~13~L~Shawn Michaels~1~0~0~Oh well okay.
+8~1~0~L~Shawn Michaels~1~0~0~And he's gone.
+8~1~2~L~Shawn Michaels~1~0~0~Did you get all that sergeant?
+8~1~2~R~Sgt. Slaughter~0~1~0~Yeah I heard everything.
+8~1~2~L~Shawn Michaels~1~0~0~Do you think we can trust him?
+8~1~2~R~Sgt. Slaughter~0~1~0~I'm not sure, but that's not what matters right now. Focus on your mission. You have that key card. Get yourself down to the gym and save Vince.
+8~1~2~L~Shawn Michaels~1~0~0~Understood.
+8~1~2~R~Sgt. Slaughter~0~1~0~Also, now that Goldust knows you are there, I see no reason for you from refraining from stomping. I'm authorizing the use of your stomps.
+8~1~2~L~Shawn Michaels~1~0~0~Perfect. Shawn over and out.
+-101~test
+9~0~0~N

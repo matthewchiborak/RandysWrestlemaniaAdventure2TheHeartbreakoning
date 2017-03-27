@@ -1,0 +1,15 @@
+-8~Forest
+23~1~25~R~Abe Lincoln~1~0.5~0.25~Ah! Welcome fair traveller! Make yourself at home!
+23~1~25~L~Shawn Michaels~1~0~0~Oh god...I think I went back too far...
+23~1~25~R~Abe Lincoln~1~0.5~0.25~Hmm? What was that? I did not understand your mumblings.
+23~1~25~L~Shawn Michaels~1~0~0~Oh sorry Mr.President. I'm afraid I'm a little lost.
+23~1~25~R~Abe Lincoln~1~0.5~0.25~Oh! Well that is no issue at all! Where were you headed? Perhaps I can be of assistance.
+23~1~25~L~Shawn Michaels~1~0~0~Well I was trying to get to Wrestlemania four years ago...
+23~1~25~R~Abe Lincoln~1~0.5~0.25~Oh! Well you're in luck! Right now you have arrived to the fourth annual Wrestlemania!
+23~1~25~L~Shawn Michaels~1~0~0~I said four years ago not fourth ever...Just never mind. Have you seen a refrigerator box around here somewhere?
+23~1~25~R~Abe Lincoln~1~0.5~0.25~You look like a wrestler to me my friend! Looking for a chance at the title?!
+23~1~25~L~Shawn Michaels~1~0~0~Well yeah. But now is hardly the time...
+23~1~25~R~Abe Lincoln~1~0.5~0.25~Well you have impeccable timing! We were about to begin the final event! The royal rumble!
+-110~Bell
+23~1~25~R~Abe Lincoln~1~0.5~0.25~Begin!
+23~1~25~L~Shawn Michaels~1~0~0~Wait what!

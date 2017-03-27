@@ -1,0 +1,449 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<COLLADA version="1.4.1" xmlns="http://www.collada.org/2005/11/COLLADASchema">
+  <asset>
+    <created>2016-05-16T10:56:59Z</created>
+    <modified>2016-05-16T10:56:59Z</modified>
+  </asset>
+  <library_images>
+    <image id="c23b_01_id" name="c23b_01">
+      <init_from>./c23b_01.png</init_from>
+    </image>
+  </library_images>
+  <library_materials>
+    <material id="c23_01_mat_id" name="c23_01_mat">
+      <instance_effect url="#eff_c23_01_id" />
+    </material>
+  </library_materials>
+  <library_effects>
+    <effect id="eff_c23_01_id" name="eff_c23_01">
+      <profile_COMMON>
+        <newparam sid="img_surface">
+          <surface type="2D">
+            <init_from>c23b_01_id</init_from>
+            <format>PNG</format>
+          </surface>
+        </newparam>
+        <newparam sid="img_sampler">
+          <sampler2D>
+            <source>img_surface</source>
+            <wrap_s>WRAP</wrap_s>
+            <wrap_t>WRAP</wrap_t>
+            <minfilter>NONE</minfilter>
+            <magfilter>LINEAR</magfilter>
+            <mipfilter>LINEAR</mipfilter>
+          </sampler2D>
+        </newparam>
+        <technique sid="img_technique">
+          <phong>
+            <emission>
+              <color>0 0 0 1</color>
+            </emission>
+            <ambient>
+              <color>0 0 0 1</color>
+            </ambient>
+            <diffuse>
+              <texture texture="img_sampler" texcoord="uv" />
+            </diffuse>
+            <specular>
+              <color>1 1 1 1</color>
+            </specular>
+          </phong>
+        </technique>
+      </profile_COMMON>
+    </effect>
+  </library_effects>
+  <library_geometries>
+    <geometry id="mesh_0_door_l002_id" name="mesh_0_door_l002">
+      <mesh>
+        <source id="mesh_0_door_l002_position_id" name="mesh_0_door_l002_position">
+          <float_array id="mesh_0_door_l002_position_array_id" count="24">0.9830782 1.021944 2.413816 0.7387207 1.021944 2.413816 0.7387207 0 2.413816 0.9830782 0 2.413816 0.9830782 1.021944 2.413816 0.9830782 0 2.413816 0.9830782 0 2.369511 0.9830782 1.021944 2.369511</float_array>
+          <technique_common>
+            <accessor source="#mesh_0_door_l002_position_array_id" count="8" stride="3">
+              <param name="X" type="float" />
+              <param name="Y" type="float" />
+              <param name="Z" type="float" />
+            </accessor>
+          </technique_common>
+        </source>
+        <source id="mesh_0_door_l002_normal_id" name="mesh_0_door_l002_normal">
+          <float_array id="mesh_0_door_l002_normal_array_id" count="24">0 -9.33192E-08 1 0 -9.33192E-08 1 0 -9.33192E-08 1 0 -9.33192E-08 1 1 0 0 1 0 0 1 0 0 1 0 0</float_array>
+          <technique_common>
+            <accessor source="#mesh_0_door_l002_normal_array_id" count="8" stride="3">
+              <param name="X" type="float" />
+              <param name="Y" type="float" />
+              <param name="Z" type="float" />
+            </accessor>
+          </technique_common>
+        </source>
+        <source id="mesh_0_door_l002_uv0_id" name="mesh_0_door_l002_uv0">
+          <float_array id="mesh_0_door_l002_uv0_array_id" count="16">0.886621 0.98258 0.997802 0.98258 0.997802 0.399791 0.886621 0.399791 0.886621 0.98258 0.886621 0.399791 0.868964 0.399791 0.868964 0.98258</float_array>
+          <technique_common>
+            <accessor source="#mesh_0_door_l002_uv0_array_id" count="8" stride="2">
+              <param name="S" type="float" />
+              <param name="T" type="float" />
+            </accessor>
+          </technique_common>
+        </source>
+        <vertices id="mesh_0_door_l002_vertices_id">
+          <input semantic="POSITION" source="#mesh_0_door_l002_position_id" />
+        </vertices>
+        <triangles material="c23_01" count="4">
+          <input semantic="VERTEX" source="#mesh_0_door_l002_vertices_id" offset="0" />
+          <input semantic="NORMAL" source="#mesh_0_door_l002_normal_id" offset="0" />
+          <input semantic="TEXCOORD" source="#mesh_0_door_l002_uv0_id" offset="0" set="0" />
+          <p>0 1 2 0 2 3 4 5 6 4 6 7</p>
+        </triangles>
+      </mesh>
+    </geometry>
+    <geometry id="mesh_1_door_ll002_id" name="mesh_1_door_ll002">
+      <mesh>
+        <source id="mesh_1_door_ll002_position_id" name="mesh_1_door_ll002_position">
+          <float_array id="mesh_1_door_ll002_position_array_id" count="24">0.7387207 1.021944 2.432474 0.4844835 1.021944 2.432474 0.4844835 0 2.432474 0.7387207 0 2.432474 0.7387207 1.021944 2.432474 0.7387207 0 2.432474 0.7387207 0 2.388168 0.7387207 1.021944 2.388169</float_array>
+          <technique_common>
+            <accessor source="#mesh_1_door_ll002_position_array_id" count="8" stride="3">
+              <param name="X" type="float" />
+              <param name="Y" type="float" />
+              <param name="Z" type="float" />
+            </accessor>
+          </technique_common>
+        </source>
+        <source id="mesh_1_door_ll002_normal_id" name="mesh_1_door_ll002_normal">
+          <float_array id="mesh_1_door_ll002_normal_array_id" count="24">0 -1.86638E-07 1 0 -1.86638E-07 1 0 -1.86638E-07 1 0 -1.86638E-07 1 1 0 0 1 0 0 1 0 0 1 0 0</float_array>
+          <technique_common>
+            <accessor source="#mesh_1_door_ll002_normal_array_id" count="8" stride="3">
+              <param name="X" type="float" />
+              <param name="Y" type="float" />
+              <param name="Z" type="float" />
+            </accessor>
+          </technique_common>
+        </source>
+        <source id="mesh_1_door_ll002_uv0_id" name="mesh_1_door_ll002_uv0">
+          <float_array id="mesh_1_door_ll002_uv0_array_id" count="16">0.841026 0.982579 0.714095 0.982579 0.714099 0.399789 0.84103 0.39979 0.841026 0.982579 0.84103 0.39979 0.863322 0.39979 0.863318 0.98258</float_array>
+          <technique_common>
+            <accessor source="#mesh_1_door_ll002_uv0_array_id" count="8" stride="2">
+              <param name="S" type="float" />
+              <param name="T" type="float" />
+            </accessor>
+          </technique_common>
+        </source>
+        <vertices id="mesh_1_door_ll002_vertices_id">
+          <input semantic="POSITION" source="#mesh_1_door_ll002_position_id" />
+        </vertices>
+        <triangles material="c23_01" count="4">
+          <input semantic="VERTEX" source="#mesh_1_door_ll002_vertices_id" offset="0" />
+          <input semantic="NORMAL" source="#mesh_1_door_ll002_normal_id" offset="0" />
+          <input semantic="TEXCOORD" source="#mesh_1_door_ll002_uv0_id" offset="0" set="0" />
+          <p>0 1 2 0 2 3 4 5 6 4 6 7</p>
+        </triangles>
+      </mesh>
+    </geometry>
+    <geometry id="mesh_2_door_r002_id" name="mesh_2_door_r002">
+      <mesh>
+        <source id="mesh_2_door_r002_position_id" name="mesh_2_door_r002_position">
+          <float_array id="mesh_2_door_r002_position_array_id" count="24">0.9830782 1.021944 2.413816 0.9830782 0 2.413816 1.227436 0 2.413816 1.227436 1.021944 2.413816 0.9830782 1.021944 2.413816 0.9830782 1.021944 2.369511 0.9830782 0 2.369511 0.9830782 0 2.413816</float_array>
+          <technique_common>
+            <accessor source="#mesh_2_door_r002_position_array_id" count="8" stride="3">
+              <param name="X" type="float" />
+              <param name="Y" type="float" />
+              <param name="Z" type="float" />
+            </accessor>
+          </technique_common>
+        </source>
+        <source id="mesh_2_door_r002_normal_id" name="mesh_2_door_r002_normal">
+          <float_array id="mesh_2_door_r002_normal_array_id" count="24">0 -9.33192E-08 1 0 -9.33192E-08 1 0 -9.33192E-08 1 0 -9.33192E-08 1 -1 0 0 -1 0 0 -1 0 0 -1 0 0</float_array>
+          <technique_common>
+            <accessor source="#mesh_2_door_r002_normal_array_id" count="8" stride="3">
+              <param name="X" type="float" />
+              <param name="Y" type="float" />
+              <param name="Z" type="float" />
+            </accessor>
+          </technique_common>
+        </source>
+        <source id="mesh_2_door_r002_uv0_id" name="mesh_2_door_r002_uv0">
+          <float_array id="mesh_2_door_r002_uv0_array_id" count="16">0.886621 0.98258 0.886621 0.399791 0.997802 0.399791 0.997802 0.98258 0.886621 0.98258 0.868964 0.98258 0.868964 0.399791 0.886621 0.399791</float_array>
+          <technique_common>
+            <accessor source="#mesh_2_door_r002_uv0_array_id" count="8" stride="2">
+              <param name="S" type="float" />
+              <param name="T" type="float" />
+            </accessor>
+          </technique_common>
+        </source>
+        <vertices id="mesh_2_door_r002_vertices_id">
+          <input semantic="POSITION" source="#mesh_2_door_r002_position_id" />
+        </vertices>
+        <triangles material="c23_01" count="4">
+          <input semantic="VERTEX" source="#mesh_2_door_r002_vertices_id" offset="0" />
+          <input semantic="NORMAL" source="#mesh_2_door_r002_normal_id" offset="0" />
+          <input semantic="TEXCOORD" source="#mesh_2_door_r002_uv0_id" offset="0" set="0" />
+          <p>0 1 2 0 2 3 4 5 6 4 6 7</p>
+        </triangles>
+      </mesh>
+    </geometry>
+    <geometry id="mesh_3_door_rr002_id" name="mesh_3_door_rr002">
+      <mesh>
+        <source id="mesh_3_door_rr002_position_id" name="mesh_3_door_rr002_position">
+          <float_array id="mesh_3_door_rr002_position_array_id" count="24">1.227436 1.021944 2.432474 1.227436 0 2.432474 1.481672 0 2.432474 1.481672 1.021944 2.432474 1.227436 1.021944 2.432474 1.227436 1.021944 2.388169 1.227436 0 2.388168 1.227436 0 2.432474</float_array>
+          <technique_common>
+            <accessor source="#mesh_3_door_rr002_position_array_id" count="8" stride="3">
+              <param name="X" type="float" />
+              <param name="Y" type="float" />
+              <param name="Z" type="float" />
+            </accessor>
+          </technique_common>
+        </source>
+        <source id="mesh_3_door_rr002_normal_id" name="mesh_3_door_rr002_normal">
+          <float_array id="mesh_3_door_rr002_normal_array_id" count="24">0 -1.86638E-07 1 0 -1.86638E-07 1 0 -1.86638E-07 1 0 -1.86638E-07 1 -1 0 0 -1 0 0 -1 0 0 -1 0 0</float_array>
+          <technique_common>
+            <accessor source="#mesh_3_door_rr002_normal_array_id" count="8" stride="3">
+              <param name="X" type="float" />
+              <param name="Y" type="float" />
+              <param name="Z" type="float" />
+            </accessor>
+          </technique_common>
+        </source>
+        <source id="mesh_3_door_rr002_uv0_id" name="mesh_3_door_rr002_uv0">
+          <float_array id="mesh_3_door_rr002_uv0_array_id" count="16">0.841026 0.982579 0.84103 0.39979 0.714099 0.399789 0.714095 0.982579 0.841026 0.982579 0.863318 0.98258 0.863322 0.39979 0.84103 0.39979</float_array>
+          <technique_common>
+            <accessor source="#mesh_3_door_rr002_uv0_array_id" count="8" stride="2">
+              <param name="S" type="float" />
+              <param name="T" type="float" />
+            </accessor>
+          </technique_common>
+        </source>
+        <vertices id="mesh_3_door_rr002_vertices_id">
+          <input semantic="POSITION" source="#mesh_3_door_rr002_position_id" />
+        </vertices>
+        <triangles material="c23_01" count="4">
+          <input semantic="VERTEX" source="#mesh_3_door_rr002_vertices_id" offset="0" />
+          <input semantic="NORMAL" source="#mesh_3_door_rr002_normal_id" offset="0" />
+          <input semantic="TEXCOORD" source="#mesh_3_door_rr002_uv0_id" offset="0" set="0" />
+          <p>0 1 2 0 2 3 4 5 6 4 6 7</p>
+        </triangles>
+      </mesh>
+    </geometry>
+  </library_geometries>
+  <library_controllers>
+    <controller id="mesh_0_door_l002_ctrl_id">
+      <skin source="#mesh_0_door_l002_id">
+        <bind_shape_matrix>1 0 0 0 0 1 0 0 0 0 1 0 0 0 0 1</bind_shape_matrix>
+        <source id="mesh_0_door_l002_ctrl_joint_names_id">
+          <Name_array id="mesh_0_door_l002_ctrl_joint_names_array_id" count="5">door_l door_l002 door_ll002 door_r002 door_rr002</Name_array>
+          <technique_common>
+            <accessor source="#mesh_0_door_l002_ctrl_joint_names_array_id" count="5" stride="1">
+              <param name="JOINT" type="Name" />
+            </accessor>
+          </technique_common>
+        </source>
+        <source id="mesh_0_door_l002_ctrl_inv_bind_poses_id">
+          <float_array id="mesh_0_door_l002_ctrl_inv_bind_poses_array_id" count="80">1 0 0 -0.970136 0 1 0 0 0 0 1 -2.39151 0 0 0 1 1 0 0 -0.9440389 0 1 0 0.0354063 0 0 1 -2.405356 0 0 0 1 1 0 0 -0.9440389 0 1 0 0.0354063 0 0 1 -2.405356 0 0 0 1 1 0 0 -0.9440389 0 1 0 0.0354063 0 0 1 -2.405356 0 0 0 1 1 0 0 -0.9440389 0 1 0 0.0354063 0 0 1 -2.405356 0 0 0 1</float_array>
+          <technique_common>
+            <accessor source="#mesh_0_door_l002_ctrl_inv_bind_poses_array_id" count="5" stride="16">
+              <param name="TRANSFORM" type="float4x4" />
+            </accessor>
+          </technique_common>
+        </source>
+        <source id="mesh_0_door_l002_ctrl_weights_id">
+          <float_array id="mesh_0_door_l002_ctrl_weights_array_id" count="1">1</float_array>
+          <technique_common>
+            <accessor source="#mesh_0_door_l002_ctrl_weights_array_id" count="1" stride="1">
+              <param name="WEIGHT" type="float" />
+            </accessor>
+          </technique_common>
+        </source>
+        <joints>
+          <input semantic="JOINT" source="#mesh_0_door_l002_ctrl_joint_names_id" />
+          <input semantic="INV_BIND_MATRIX" source="#mesh_0_door_l002_ctrl_inv_bind_poses_id" />
+        </joints>
+        <vertex_weights count="8">
+          <input semantic="JOINT" source="#mesh_0_door_l002_ctrl_joint_names_id" offset="0" />
+          <input semantic="WEIGHT" source="#mesh_0_door_l002_ctrl_weights_id" offset="1" />
+          <vcount>1 1 1 1 1 1 1 1</vcount>
+          <v>1 0 1 0 1 0 1 0 1 0 1 0 1 0 1 0</v>
+        </vertex_weights>
+      </skin>
+    </controller>
+    <controller id="mesh_1_door_ll002_ctrl_id">
+      <skin source="#mesh_1_door_ll002_id">
+        <bind_shape_matrix>1 0 0 0 0 1 0 0 0 0 1 0 0 0 0 1</bind_shape_matrix>
+        <source id="mesh_1_door_ll002_ctrl_joint_names_id">
+          <Name_array id="mesh_1_door_ll002_ctrl_joint_names_array_id" count="5">door_l door_l002 door_ll002 door_r002 door_rr002</Name_array>
+          <technique_common>
+            <accessor source="#mesh_1_door_ll002_ctrl_joint_names_array_id" count="5" stride="1">
+              <param name="JOINT" type="Name" />
+            </accessor>
+          </technique_common>
+        </source>
+        <source id="mesh_1_door_ll002_ctrl_inv_bind_poses_id">
+          <float_array id="mesh_1_door_ll002_ctrl_inv_bind_poses_array_id" count="80">1 0 0 -0.970136 0 1 0 0 0 0 1 -2.39151 0 0 0 1 1 0 0 -0.9440389 0 1 0 0.0354063 0 0 1 -2.405356 0 0 0 1 1 0 0 -0.9440389 0 1 0 0.0354063 0 0 1 -2.405356 0 0 0 1 1 0 0 -0.9440389 0 1 0 0.0354063 0 0 1 -2.405356 0 0 0 1 1 0 0 -0.9440389 0 1 0 0.0354063 0 0 1 -2.405356 0 0 0 1</float_array>
+          <technique_common>
+            <accessor source="#mesh_1_door_ll002_ctrl_inv_bind_poses_array_id" count="5" stride="16">
+              <param name="TRANSFORM" type="float4x4" />
+            </accessor>
+          </technique_common>
+        </source>
+        <source id="mesh_1_door_ll002_ctrl_weights_id">
+          <float_array id="mesh_1_door_ll002_ctrl_weights_array_id" count="1">1</float_array>
+          <technique_common>
+            <accessor source="#mesh_1_door_ll002_ctrl_weights_array_id" count="1" stride="1">
+              <param name="WEIGHT" type="float" />
+            </accessor>
+          </technique_common>
+        </source>
+        <joints>
+          <input semantic="JOINT" source="#mesh_1_door_ll002_ctrl_joint_names_id" />
+          <input semantic="INV_BIND_MATRIX" source="#mesh_1_door_ll002_ctrl_inv_bind_poses_id" />
+        </joints>
+        <vertex_weights count="8">
+          <input semantic="JOINT" source="#mesh_1_door_ll002_ctrl_joint_names_id" offset="0" />
+          <input semantic="WEIGHT" source="#mesh_1_door_ll002_ctrl_weights_id" offset="1" />
+          <vcount>1 1 1 1 1 1 1 1</vcount>
+          <v>2 0 2 0 2 0 2 0 2 0 2 0 2 0 2 0</v>
+        </vertex_weights>
+      </skin>
+    </controller>
+    <controller id="mesh_2_door_r002_ctrl_id">
+      <skin source="#mesh_2_door_r002_id">
+        <bind_shape_matrix>1 0 0 0 0 1 0 0 0 0 1 0 0 0 0 1</bind_shape_matrix>
+        <source id="mesh_2_door_r002_ctrl_joint_names_id">
+          <Name_array id="mesh_2_door_r002_ctrl_joint_names_array_id" count="5">door_l door_l002 door_ll002 door_r002 door_rr002</Name_array>
+          <technique_common>
+            <accessor source="#mesh_2_door_r002_ctrl_joint_names_array_id" count="5" stride="1">
+              <param name="JOINT" type="Name" />
+            </accessor>
+          </technique_common>
+        </source>
+        <source id="mesh_2_door_r002_ctrl_inv_bind_poses_id">
+          <float_array id="mesh_2_door_r002_ctrl_inv_bind_poses_array_id" count="80">1 0 0 -0.970136 0 1 0 0 0 0 1 -2.39151 0 0 0 1 1 0 0 -0.9440389 0 1 0 0.0354063 0 0 1 -2.405356 0 0 0 1 1 0 0 -0.9440389 0 1 0 0.0354063 0 0 1 -2.405356 0 0 0 1 1 0 0 -0.9440389 0 1 0 0.0354063 0 0 1 -2.405356 0 0 0 1 1 0 0 -0.9440389 0 1 0 0.0354063 0 0 1 -2.405356 0 0 0 1</float_array>
+          <technique_common>
+            <accessor source="#mesh_2_door_r002_ctrl_inv_bind_poses_array_id" count="5" stride="16">
+              <param name="TRANSFORM" type="float4x4" />
+            </accessor>
+          </technique_common>
+        </source>
+        <source id="mesh_2_door_r002_ctrl_weights_id">
+          <float_array id="mesh_2_door_r002_ctrl_weights_array_id" count="1">1</float_array>
+          <technique_common>
+            <accessor source="#mesh_2_door_r002_ctrl_weights_array_id" count="1" stride="1">
+              <param name="WEIGHT" type="float" />
+            </accessor>
+          </technique_common>
+        </source>
+        <joints>
+          <input semantic="JOINT" source="#mesh_2_door_r002_ctrl_joint_names_id" />
+          <input semantic="INV_BIND_MATRIX" source="#mesh_2_door_r002_ctrl_inv_bind_poses_id" />
+        </joints>
+        <vertex_weights count="8">
+          <input semantic="JOINT" source="#mesh_2_door_r002_ctrl_joint_names_id" offset="0" />
+          <input semantic="WEIGHT" source="#mesh_2_door_r002_ctrl_weights_id" offset="1" />
+          <vcount>1 1 1 1 1 1 1 1</vcount>
+          <v>3 0 3 0 3 0 3 0 3 0 3 0 3 0 3 0</v>
+        </vertex_weights>
+      </skin>
+    </controller>
+    <controller id="mesh_3_door_rr002_ctrl_id">
+      <skin source="#mesh_3_door_rr002_id">
+        <bind_shape_matrix>1 0 0 0 0 1 0 0 0 0 1 0 0 0 0 1</bind_shape_matrix>
+        <source id="mesh_3_door_rr002_ctrl_joint_names_id">
+          <Name_array id="mesh_3_door_rr002_ctrl_joint_names_array_id" count="5">door_l door_l002 door_ll002 door_r002 door_rr002</Name_array>
+          <technique_common>
+            <accessor source="#mesh_3_door_rr002_ctrl_joint_names_array_id" count="5" stride="1">
+              <param name="JOINT" type="Name" />
+            </accessor>
+          </technique_common>
+        </source>
+        <source id="mesh_3_door_rr002_ctrl_inv_bind_poses_id">
+          <float_array id="mesh_3_door_rr002_ctrl_inv_bind_poses_array_id" count="80">1 0 0 -0.970136 0 1 0 0 0 0 1 -2.39151 0 0 0 1 1 0 0 -0.9440389 0 1 0 0.0354063 0 0 1 -2.405356 0 0 0 1 1 0 0 -0.9440389 0 1 0 0.0354063 0 0 1 -2.405356 0 0 0 1 1 0 0 -0.9440389 0 1 0 0.0354063 0 0 1 -2.405356 0 0 0 1 1 0 0 -0.9440389 0 1 0 0.0354063 0 0 1 -2.405356 0 0 0 1</float_array>
+          <technique_common>
+            <accessor source="#mesh_3_door_rr002_ctrl_inv_bind_poses_array_id" count="5" stride="16">
+              <param name="TRANSFORM" type="float4x4" />
+            </accessor>
+          </technique_common>
+        </source>
+        <source id="mesh_3_door_rr002_ctrl_weights_id">
+          <float_array id="mesh_3_door_rr002_ctrl_weights_array_id" count="1">1</float_array>
+          <technique_common>
+            <accessor source="#mesh_3_door_rr002_ctrl_weights_array_id" count="1" stride="1">
+              <param name="WEIGHT" type="float" />
+            </accessor>
+          </technique_common>
+        </source>
+        <joints>
+          <input semantic="JOINT" source="#mesh_3_door_rr002_ctrl_joint_names_id" />
+          <input semantic="INV_BIND_MATRIX" source="#mesh_3_door_rr002_ctrl_inv_bind_poses_id" />
+        </joints>
+        <vertex_weights count="8">
+          <input semantic="JOINT" source="#mesh_3_door_rr002_ctrl_joint_names_id" offset="0" />
+          <input semantic="WEIGHT" source="#mesh_3_door_rr002_ctrl_weights_id" offset="1" />
+          <vcount>1 1 1 1 1 1 1 1</vcount>
+          <v>4 0 4 0 4 0 4 0 4 0 4 0 4 0 4 0</v>
+        </vertex_weights>
+      </skin>
+    </controller>
+  </library_controllers>
+  <library_visual_scenes>
+    <visual_scene id="vs_t010_door1_id" name="vs_t010_door1">
+      <node id="door_l_bone_id" name="door_l" sid="door_l" type="JOINT">
+        <matrix>1 0 0 0.970136 0 1 0 0 0 0 1 2.39151 0 0 0 1</matrix>
+        <node id="door_l002_bone_id" name="door_l002" sid="door_l002" type="JOINT">
+          <matrix>1 0 0 -0.0260971 0 1 0 -0.0354063 0 0 1 0.0138458 0 0 0 1</matrix>
+        </node>
+        <node id="door_ll002_bone_id" name="door_ll002" sid="door_ll002" type="JOINT">
+          <matrix>1 0 0 -0.0260971 0 1 0 -0.0354063 0 0 1 0.0138458 0 0 0 1</matrix>
+        </node>
+        <node id="door_r002_bone_id" name="door_r002" sid="door_r002" type="JOINT">
+          <matrix>1 0 0 -0.0260971 0 1 0 -0.0354063 0 0 1 0.0138458 0 0 0 1</matrix>
+        </node>
+        <node id="door_rr002_bone_id" name="door_rr002" sid="door_rr002" type="JOINT">
+          <matrix>1 0 0 -0.0260971 0 1 0 -0.0354063 0 0 1 0.0138458 0 0 0 1</matrix>
+        </node>
+      </node>
+      <node id="vsn_mesh_0_door_l002_id" name="vsn_mesh_0_door_l002" type="NODE">
+        <matrix>1 0 0 0 0 1 0 0 0 0 1 0 0 0 0 1</matrix>
+        <instance_controller url="#mesh_0_door_l002_ctrl_id">
+          <skeleton>#door_l_bone_id</skeleton>
+          <bind_material>
+            <technique_common>
+              <instance_material symbol="c23_01" target="#c23_01_mat_id" />
+            </technique_common>
+          </bind_material>
+        </instance_controller>
+      </node>
+      <node id="vsn_mesh_1_door_ll002_id" name="vsn_mesh_1_door_ll002" type="NODE">
+        <matrix>1 0 0 0 0 1 0 0 0 0 1 0 0 0 0 1</matrix>
+        <instance_controller url="#mesh_1_door_ll002_ctrl_id">
+          <skeleton>#door_l_bone_id</skeleton>
+          <bind_material>
+            <technique_common>
+              <instance_material symbol="c23_01" target="#c23_01_mat_id" />
+            </technique_common>
+          </bind_material>
+        </instance_controller>
+      </node>
+      <node id="vsn_mesh_2_door_r002_id" name="vsn_mesh_2_door_r002" type="NODE">
+        <matrix>1 0 0 0 0 1 0 0 0 0 1 0 0 0 0 1</matrix>
+        <instance_controller url="#mesh_2_door_r002_ctrl_id">
+          <skeleton>#door_l_bone_id</skeleton>
+          <bind_material>
+            <technique_common>
+              <instance_material symbol="c23_01" target="#c23_01_mat_id" />
+            </technique_common>
+          </bind_material>
+        </instance_controller>
+      </node>
+      <node id="vsn_mesh_3_door_rr002_id" name="vsn_mesh_3_door_rr002" type="NODE">
+        <matrix>1 0 0 0 0 1 0 0 0 0 1 0 0 0 0 1</matrix>
+        <instance_controller url="#mesh_3_door_rr002_ctrl_id">
+          <skeleton>#door_l_bone_id</skeleton>
+          <bind_material>
+            <technique_common>
+              <instance_material symbol="c23_01" target="#c23_01_mat_id" />
+            </technique_common>
+          </bind_material>
+        </instance_controller>
+      </node>
+    </visual_scene>
+  </library_visual_scenes>
+  <scene>
+    <instance_visual_scene url="#vs_t010_door1_id" />
+  </scene>
+</COLLADA>

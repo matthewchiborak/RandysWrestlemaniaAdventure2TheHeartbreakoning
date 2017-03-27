@@ -1,0 +1,14 @@
+-2~test
+8~1~0~L~Shawn Michaels~1~0~0~I wonder if there's a way to get to the gym from here...
+8~1~0~R~???~1~1~0~Welcome!
+-4~IntenceUrian
+8~1~0~L~Shawn Michaels~1~0~0~Huh?! Who said that?
+8~1~0~R~???~1~1~0~I thought that was you Shawn. You never were good at being subtle.
+8~1~0~L~Shawn Michaels~1~0~0~Show yourself!
+-104~Laugh
+8~1~8~R~Goldust~1~1~0~Hahahahahaha
+8~1~8~L~Shawn Michaels~1~0~0~Goldust!
+8~1~8~R~Goldust~1~1~0~Yes it is I. Goldust! Commander of Reconnisence for Hell in the Cell! And I'm afraid you can't be allowed to live.
+8~1~8~L~Shawn Michaels~1~0~0~Tell me! Why are you doing this! What do you want with Vince?!
+8~1~8~R~Goldust~1~1~0~Wouldn't you like to know. It matters not. We have likely already located Vince and soon you will die.
+8~1~8~R~Goldust~1~1~0~Prepare yourself!

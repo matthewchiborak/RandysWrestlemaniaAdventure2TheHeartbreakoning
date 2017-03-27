@@ -1,0 +1,180 @@
+fileFormatVersion: 2
+guid: b35c9e41e0bc84e439984438d47a86fc
+timeCreated: 1483861113
+licenseType: Free
+ModelImporter:
+  serializedVersion: 19
+  fileIDToRecycleName:
+    100000: backpack
+    100002: Event
+    100004: //RootNode
+    100006: Event_skeleton
+    100008: head
+    100010: hip
+    100012: left_arm
+    100014: left_drill
+    100016: left_eagle_bottom
+    100018: left_eagle_top
+    100020: left_farm
+    100022: left_foot
+    100024: left_hand
+    100026: left_index1
+    100028: left_index2
+    100030: left_mid1
+    100032: left_mid2
+    100034: left_pinky1
+    100036: left_pinky2
+    100038: left_sh_pad
+    100040: left_shin
+    100042: left_shin_guard
+    100044: left_thigh
+    100046: left_thumb1
+    100048: left_thumb2
+    100050: light_left
+    100052: light_right
+    100054: machine_gun
+    100056: neck
+    100058: right_arm
+    100060: right_drill
+    100062: right_eagle_bottom
+    100064: right_eagle_top
+    100066: right_farm
+    100068: right_foot
+    100070: right_hand
+    100072: right_index1
+    100074: right_index2
+    100076: right_mid1
+    100078: right_mid2
+    100080: right_pinky1
+    100082: right_pinky2
+    100084: right_sh_pad
+    100086: right_shin
+    100088: right_shin_guard
+    100090: right_thigh
+    100092: right_thumb1
+    100094: right_thumb2
+    100096: root
+    100098: spine1
+    100100: spine3
+    100102: spine_1
+    100104: spine_3
+    400000: backpack
+    400002: Event
+    400004: //RootNode
+    400006: Event_skeleton
+    400008: head
+    400010: hip
+    400012: left_arm
+    400014: left_drill
+    400016: left_eagle_bottom
+    400018: left_eagle_top
+    400020: left_farm
+    400022: left_foot
+    400024: left_hand
+    400026: left_index1
+    400028: left_index2
+    400030: left_mid1
+    400032: left_mid2
+    400034: left_pinky1
+    400036: left_pinky2
+    400038: left_sh_pad
+    400040: left_shin
+    400042: left_shin_guard
+    400044: left_thigh
+    400046: left_thumb1
+    400048: left_thumb2
+    400050: light_left
+    400052: light_right
+    400054: machine_gun
+    400056: neck
+    400058: right_arm
+    400060: right_drill
+    400062: right_eagle_bottom
+    400064: right_eagle_top
+    400066: right_farm
+    400068: right_foot
+    400070: right_hand
+    400072: right_index1
+    400074: right_index2
+    400076: right_mid1
+    400078: right_mid2
+    400080: right_pinky1
+    400082: right_pinky2
+    400084: right_sh_pad
+    400086: right_shin
+    400088: right_shin_guard
+    400090: right_thigh
+    400092: right_thumb1
+    400094: right_thumb2
+    400096: root
+    400098: spine1
+    400100: spine3
+    400102: spine_1
+    400104: spine_3
+    4300000: Event
+    9500000: //RootNode
+    13700000: Event
+  materials:
+    importMaterials: 1
+    materialName: 0
+    materialSearch: 1
+  animations:
+    legacyGenerateAnimations: 4
+    bakeSimulation: 0
+    resampleCurves: 1
+    optimizeGameObjects: 0
+    motionNodeName: 
+    animationImportErrors: 
+    animationImportWarnings: 
+    animationRetargetingWarnings: 
+    animationDoRetargetingWarnings: 0
+    animationCompression: 1
+    animationRotationError: 0.5
+    animationPositionError: 0.5
+    animationScaleError: 0.5
+    animationWrapMode: 0
+    extraExposedTransformPaths: []
+    clipAnimations: []
+    isReadable: 1
+  meshes:
+    lODScreenPercentages: []
+    globalScale: 1
+    meshCompression: 0
+    addColliders: 0
+    importBlendShapes: 1
+    swapUVChannels: 0
+    generateSecondaryUV: 0
+    useFileUnits: 1
+    optimizeMeshForGPU: 1
+    keepQuads: 0
+    weldVertices: 1
+    secondaryUVAngleDistortion: 8
+    secondaryUVAreaDistortion: 15.000001
+    secondaryUVHardAngle: 88
+    secondaryUVPackMargin: 4
+    useFileScale: 1
+  tangentSpace:
+    normalSmoothAngle: 60
+    normalImportMode: 0
+    tangentImportMode: 3
+  importAnimation: 1
+  copyAvatar: 0
+  humanDescription:
+    human: []
+    skeleton: []
+    armTwist: 0.5
+    foreArmTwist: 0.5
+    upperLegTwist: 0.5
+    legTwist: 0.5
+    armStretch: 0.05
+    legStretch: 0.05
+    feetSpacing: 0
+    rootMotionBoneName: 
+    hasTranslationDoF: 0
+  lastHumanDescriptionAvatarSource: {instanceID: 0}
+  animationType: 2
+  humanoidOversampling: 1
+  additionalBone: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

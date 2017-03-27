@@ -1,0 +1,55 @@
+-2~test
+0~1~2~R~Sgt. Slaughter~0~1~0~Come in Shawn. Can you hear me?
+0~1~2~L~Shawn Michaels~1~0~0~Yes, I can hear you sergeant.
+0~1~2~R~Sgt. Slaughter~0~1~0~What's your status?
+0~1~2~L~Shawn Michaels~1~0~0~I've made it inside the building.
+0~1~2~R~Sgt. Slaughter~0~1~0~Excellent. Must have been hard considering the building's under hostile takeover. Went through the ventilation I assume?
+0~1~2~L~Shawn Michaels~1~0~0~No, the front door was unlocked.
+0~1~2~R~Sgt. Slaughter~0~1~0~Oh? How strange. Well never mind that. Continue with the mission.
+0~1~2~L~Shawn Michaels~1~0~0~Yeah about that. Could you remind me what I'm supposed to be doing here?
+0~1~2~R~Sgt. Slaughter~0~1~0~You don't remember?
+0~1~2~L~Shawn Michaels~1~0~0~I'm here because the belt's here. This is my title shot.
+0~1~2~R~Sgt. Slaughter~0~1~0~Oh okay. I understand. Do you remember the incident that occurred here four years ago?
+0~1~2~L~Shawn Michaels~1~0~0~Of course, Cena went crazy and tried to murder a bunch of people because Orton screwed him out of the title. Big show ended up being killed and Orton put a stop to it and became champion.
+0~1~2~R~Sgt. Slaughter~0~1~0~Exactly. After that incident the president at the time decided to form a stable with Orton and his most trusted allies to combat any threats in the future.  
+2~0~0~L~Shawn Michaels~1~0~0~Ah yes. The famous “Hell in the Cell” stable.  They went undefeated under the president. What ever happened to them?
+2~0~0~R~Sgt. Slaughter~0~1~0~When the new president was elected, the new president disbanded the team. I don't think he trusted the people on the team. 
+2~0~0~L~Shawn Michaels~1~0~0~Makes sense. He was the former chairman of the WWE.
+2~0~0~R~Sgt. Slaughter~0~1~0~After the team disbanded, Orton returned to his bakery where things were quiet for a couple months. Until 6 months ago when an incident occurred...
+1~4~3~R~Randy Orton~0.5~0.5~0.5~Welcome to I'm Ortons! May I take your order?
+1~4~3~L~Bret Hart~1~0~0.5~Yeah, I'll take a muffin and a large coffee.
+1~4~3~R~Randy Orton~0.5~0.5~0.5~...
+1~4~3~L~Bret Hart~1~0~0.5~Uh hello?
+1~4~3~R~Randy Orton~0.5~0.5~0.5~...
+1~4~3~L~Bret Hart~1~0~0.5~Are you going to take my order or not?
+-100~test
+1~6~5~L~Bret Hart~1~0~0.5~AAAAUUUUUUUUUGGGGGGGGGGHHHHHHHHHH!
+0~1~2~R~Sgt. Slaughter~0~1~0~Bret died in the hospital a couple hours later.
+0~1~2~L~Shawn Michaels~1~0~0~Why would he do that?
+0~1~2~R~Sgt. Slaughter~0~1~0~No one's sure exactly.  They did have a match scheduled later that week.  Most people believe Orton was afraid of losing the title so he made sure Bret couldn't win it from him.
+0~1~2~L~Shawn Michaels~1~0~0~Understandable. But what's that got to do with the takeover of Wrestlemania Stadium?
+0~1~2~R~Sgt. Slaughter~0~1~0~When Orton went off the grid, soon did all the other former members of 'Hell in the Cell' as well.  Many people believe they reformed into a new military force with Orton now acting as leader committing acts similar to what they did to Bret.  
+0~1~2~R~Sgt. Slaughter~0~1~0~For the past 6 months, there have been attacks that fit exactly how Hell in the Cell used to operate. The seizure of the stadium falls into this as well.
+0~1~2~L~Shawn Michaels~1~0~0~So, you think Orton has taken over the Stadium. Makes sense. This was this old kingdom. Wants his glory back.  So why send in me? I understand you asked for me specifically.
+0~1~2~R~Sgt. Slaughter~0~1~0~You are the only other person to have screwed Bret Hart out of a title.  You are best qualified to understand Orton's motives and how to take him down. 
+0~1~2~L~Shawn Michaels~1~0~0~Gotcha. Guess I'll just stomp over to him and take him down.
+0~1~2~R~Sgt. Slaughter~0~1~0~No Shawn, you must be careful.
+0~1~2~L~Shawn Michaels~1~0~0~Why exactly?
+0~1~2~R~Sgt. Slaughter~0~1~0~When they seized the stadium they also took anyone who was in the building hostage.
+0~1~2~L~Shawn Michaels~1~0~0~I see. I can't let them know I'm here otherwise they may start killing hostages.
+0~1~2~R~Sgt. Slaughter~0~1~0~Exactly.  Taking out the army with stealth is the only possible way to rescuing the hostages. We could pay the ransom instead if we had 30 billion dollars to give.
+0~1~2~L~Shawn Michaels~1~0~0~30 Billion dollars! What makes them think they can get away with that much?
+0~1~2~R~Sgt. Slaughter~0~1~0~There was a government sponsored match being held today so many government figures were in the building at the time, including the most important man. The president of the United States.
+0~1~2~L~Shawn Michaels~1~0~0~President Vince McMahon...
+0~1~2~L~Shawn Michaels~1~0~0~Understood.
+0~1~2~R~Sgt. Slaughter~0~1~0~Your mission is to take out the assailants and rescue the hostages. I suggest you start with the hostages to ensure their safety, especially Vince's.
+0~1~2~R~Sgt. Slaughter~0~1~0~Also, you are not alone.  We made contact with some of the military guard that was stationed here for security not too long ago. They said they were holed up in the food court making their way to the hostages.
+0~1~2~L~Shawn Michaels~1~0~0~Military guard huh? Maybe they're who unlocked the front door for me. 
+0~1~2~R~Sgt. Slaughter~0~1~0~They said that some of the hostages are currently hiding in the gym. Hopefully Vince is there. Make your way over to the gym and assist with the rescue.
+0~1~2~R~Sgt. Slaughter~0~1~0~Also, the stadium is swarming with the assailant's military force. Use extreme caution. 
+0~1~2~L~Shawn Michaels~1~0~0~Understood. Commencing the mission now. 
+3~0~0~N
+-101~test
+4~0~0~N
+-101~test
+5~0~0~N

@@ -1,0 +1,39 @@
+-2~Gentle?
+10~1~0~L~Shawn Michaels~1~0~0~Alright everybody listen up. I'm here to rescue you. Everything will be fine.
+10~1~15~R~Fandango~1~0.5~0~Yeah okay Shawn. I definitely didn't have everything under control. Definitely wasn't about to free all of us. But nope here comes Shawn to save the day!
+10~15~16~RW~Renee Young~0.5~0~0.5~Really Fandango? You had it under control? Because from here it looked like everytime a guard came up to you, you got on your knees and begged for your life.
+10~15~16~L~Fandango~1~0.5~0~Shhhhh. Shhhhhh, Isabella. Everytime I was going to enact my plan, the guards would pull out the funkadoodles to distract me.
+10~15~16~RW~Renee Young~0.5~0~0.5~For the 9th time, it's Renee.
+10~15~16~L~Fandango~1~0.5~0~I don't want to hear it Isabella!
+10~1~0~L~Shawn Michaels~1~0~0~Alright... I'll be over here reporting the situation...
+10~1~2~L~Shawn Michaels~1~0~0~Sargeant. Come in. I've located and rescued the hostages.
+10~1~2~R~Sgt. Slaughter~0~1~0~Excellent work Shawn! Is Vince McMahon with them?
+10~1~2~L~Shawn Michaels~1~0~0~Unfortunately no. He's not here. It's just some wrestlers and reporters. None of the government figures are here. I didn't run into Austin or Mick either. They must have already taken him.
+10~1~2~R~Sgt. Slaughter~0~1~0~Damn. Well. There's still a chance to save him. Goldust mentioned they needed McMahon for something. They'll keep him alive at least until they get what they want.
+10~1~2~L~Shawn Michaels~1~0~0~You're right. I just need to find out where they've taken him and save him before it's too late. 
+10~1~2~R~Sgt. Slaughter~0~1~0~Why don't you try asking the other hostages if they know where they might have taken him?
+10~1~2~L~Shawn Michaels~1~0~0~I uh... I guess I could. I'll try.
+10~1~0~L~Shawn Michaels~1~0~0~Hey guys...
+10~15~16~L~Fandango~1~0.5~0~What do you mean I was outnumbered? I couldv'e taken them. I have a little something up my sleeve.
+10~15~16~RW~Renee Young~0.5~0~0.5~Well... technically speaking you're not actually wearing sleeves...
+10~15~16~L~Fandango~1~0.5~0~Shut. Shut your mouth. Shut your mouth.
+10~1~0~L~Shawn Michaels~1~0~0~Guys!
+10~1~15~R~Fandango~1~0.5~0~Oh pardon me. You got something to say too?
+10~1~15~L~Shawn Michaels~1~0~0~Does anybody know where they took Vince McMahon?
+10~1~15~R~Fandango~1~0.5~0~Oh Vince? Yeah he was here. The big bald guy came in here and took him away. I think he was taking him to the washroom. Had to pee real bad after hiding in here for so long.
+10~15~16~RW~Renee Young~0.5~0~0.5~What? No! They said they were taking him in for questioning! Why would they question him in the washrooms?
+10~15~16~L~Fandango~1~0.5~0~You know what Isabella. I thought you were a decent lady...
+-1~silent
+1000~4.55
+10~1~16~L~Shawn Michaels~1~0~0~...
+10~1~16~RW~Renee Young~0.5~0~0.5~...
+-2~Gentle?
+10~1~16~L~Shawn Michaels~1~0~0~Okay do YOU know where they took Vince?
+10~1~16~RW~Renee Young~0.5~0~0.5~Sorry I don't. However, the bald one who took him away dropped this. I think it's a key card. You'll probably make better use of it.
+10~1~16~L~Shawn Michaels~1~0~0~Yeah it's the level 2 key card for this stadium. Thanks. 
+10~1~2~L~Shawn Michaels~1~0~0~Sargeant. Come in. They don't know where they took him. I'm lost. They left no clues behind.
+10~1~2~R~Sgt. Slaughter~0~1~0~Well what about what Fandango said?
+10~1~2~L~Shawn Michaels~1~0~0~He's not going to be in the washrooms...
+10~1~2~R~Sgt. Slaughter~0~1~0~It's the only lead you have. What have you got to lose?
+10~1~2~L~Shawn Michaels~1~0~0~...Alright. Heading for the washrooms now.
+10~1~0~L~Shawn Michaels~1~0~0~I wonder if that Shockmaster guy knew he was already taken. Maybe he knows where he really is and that's where he went, to go save him. But maybe not. I should go.

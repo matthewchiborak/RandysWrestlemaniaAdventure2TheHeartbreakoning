@@ -1,0 +1,56 @@
+-2~test
+6~1~0~L~Shawn Michaels~1~0~0~Okay this must be the food court. But where are the soldiers?
+6~1~0~L~Shawn Michaels~1~0~0~Huh?!
+-3~test
+6~7~10~LW~Steve Austin~0~0~0~So. This is where you've all been hiding
+6~7~10~R~Soldier~0~1~0~Ah! No! Put me down!
+6~7~10~LW~Steve Austin~0~0~0~You're the last one. One way or another you're going to tell us what we want to know.
+6~7~10~R~Soldier~0~1~0~You think you can get away with this. You won't win!
+6~7~10~LW~Steve Austin~0~0~0~Coldrust, I don't think he's going to tell us.
+6~8~10~L~Goldust~1~1~0~Oh he will. We have ways of making him talk. No one can withstand the sock. Mick!
+6~9~8~LW~Mick Foley~0.5~0.25~0.1~Hmm. What's that? Did I hear my name?
+6~9~7~RW~Steve Austin~0~0~0~What were you doing, Rick?
+6~9~7~LW~Mick Foley~0.5~0.25~0.1~I was making pillows for all these sleeping guards! You can't expect them to sleep here without pillows, do you?
+6~9~7~RW~Steve Austin~0~0~0~But those are cookies. Why are you...
+6~8~7~L~Goldust~1~1~0~Never mind that. Mick just make him talk.
+6~9~10~LW~Mick Foley~0.5~0.25~0.1~Oh hello there! I didn't see you all the way up there. I like you. You seem like a friendly guy. Do you want a friend? Here I'll introduce you to a friend of mine.
+6~9~10~R~Soldier~0~1~0~Oh god no! Anything but that!
+-102~Muffled
+7~0~0~N
+6~8~7~RW~Steve Austin~0~0~0~No one's ever been able to resist, right Coldrust?
+6~8~7~RW~Steve Austin~0~0~0~Coldrust? You there?
+6~8~11~L~Goldust~1~1~0~...
+6~8~7~RW~Steve Austin~0~0~0~Hello?
+6~8~7~L~Goldust~1~1~0~Oh sorry. I thought I saw something. Mick? Did he talk?
+6~9~8~LW~Mick Foley~0.5~0.25~0.1~Nope! He fell asleep just like the others.
+6~9~7~RW~Steve Austin~0~0~0~Damn. What are we supposed to do now?
+6~8~7~L~Goldust~1~1~0~Fret not my friend. There are still other ways to find Vince. 
+6~12~8~LW~Guard~0~0~0.5~Sir. Pardon my intrusion.
+6~12~8~R~Goldust~1~1~0~Hmm. Yes? What is it?
+6~12~8~LW~Guard~0~0~0.5~We just recieved a report that the guard who was guarding the lobby was attacked. 
+6~12~8~R~Goldust~1~1~0~Understood. You and your squad stay here and keep a lookout for this attacker. 
+6~12~8~LW~Guard~0~0~0.5~That's not all sir. We also recieved a report that the guards stationed on the roof were also attacked. 
+6~12~8~R~Goldust~1~1~0~Hmm. Interesting. Very interesting. Why would someone attack guards at two different entrances. Today may go better than expected.
+6~8~7~RW~Steve Austin~0~0~0~What are you talking about Coldrust?
+6~8~7~L~Goldust~1~1~0~Nothing. Austin. Mick. Go to the gym and see if he's there. Oh, and lock the door behind you.
+6~8~7~RW~Steve Austin~0~0~0~Just us? Where are you going?
+6~8~7~L~Goldust~1~1~0~Something has come to my attention that I must look into. I'll catch up with you later. 
+6~11~0~N
+-2~GigSil
+-103~Door
+6~11~0~L~Shawn Michaels~1~0~0~Okay they're gone
+6~1~2~L~Shawn Michaels~1~0~0~Sergeant. Come in. Are you there?
+6~1~2~R~Sgt. Slaughter~0~1~0~Yes Shawn I'm here. Did you find them?
+6~1~2~L~Shawn Michaels~1~0~0~Yes. Unfortunely they're all dead.
+6~1~2~R~Sgt. Slaughter~0~1~0~Damn. How? Who could take out an entire miltary squad.
+6~1~2~L~Shawn Michaels~1~0~0~Stone Cold Steve Austin, Goldust, and Mick Foley.
+6~1~2~R~Sgt. Slaughter~0~1~0~Then my suspisions about this incident being caused by Randy Orton were correct. Anyways the mission is not lost. You'll have to continue on alone.
+6~1~2~L~Shawn Michaels~1~0~0~Yes. Alone...
+6~1~2~R~Sgt. Slaughter~0~1~0~Hmm? Is something on your mind?
+6~1~2~L~Shawn Michaels~1~0~0~Not really. It was just something one of them said about the guards on the roof being attacked. Could there be another intruder besides me?
+6~1~2~R~Sgt. Slaughter~0~1~0~That's not possible. I'm in charge of this operation so I know all the wrestlers and what missions they're assigned to. I have no idea what could be happening.
+6~1~2~L~Shawn Michaels~1~0~0~If you say so.
+6~1~2~R~Sgt. Slaughter~0~1~0~Never mind that right now. Focus on the mission. Make your way to the gym.
+6~1~2~L~Shawn Michaels~1~0~0~There's the problem. Austin and Mick are headed there and they locked the door that leads to the gym. 
+6~1~2~R~Sgt. Slaughter~0~1~0~Damn. Well looks like you'll have to search for another way around. Hurry before they find Vince.
+6~1~2~L~Shawn Michaels~1~0~0~Understood.

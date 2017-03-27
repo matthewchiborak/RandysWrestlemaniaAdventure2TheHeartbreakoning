@@ -1,0 +1,78 @@
+-6~City
+1~0~5~N
+1~2~5~L~Shawn Michaels~1~0~0~Oh there you are Orton.
+1~2~5~R~Randy Orton~0.5~0.5~0.5~Oh hey Shawn. 
+1~2~5~L~Shawn Michaels~1~0~0~What you doing here? I thought you were going after Big Show?
+1~2~5~R~Randy Orton~0.5~0.5~0.5~He got away. I was so close.
+1~2~5~L~Shawn Michaels~1~0~0~Oh well. I'm sure he'll turn up eventually. Then you'll get your chance.
+1~2~5~R~Randy Orton~0.5~0.5~0.5~Yeah you're right. What happened to Trump?
+1~2~5~L~Shawn Michaels~1~0~0~I kicked him through the moon.
+1~2~5~R~Randy Orton~0.5~0.5~0.5~Oh. Yeah I thought the moon looked at little weird.
+1~2~5~L~Shawn Michaels~1~0~0~Yeah it was super weird. He just grew to like 20 stories tall and just jumped into orbit. I had no idea he could do any of that. Or even how.
+1~2~5~R~Randy Orton~0.5~0.5~0.5~Oh hold on. Let me look it up.
+1~2~5~L~Shawn Michaels~1~0~0~Look it up?
+1~2~5~R~Randy Orton~0.5~0.5~0.5~Huh? That's weird. The script just says 'Nanomachines, son'.
+1~2~5~L~Shawn Michaels~1~0~0~Oh! You went back and grabbed the script?
+1~2~5~R~Randy Orton~0.5~0.5~0.5~Yeah I've just been sitting here reading it. Gotta know what the Federation is planning if I'm going to achieve my dream of taking them down and avenging my father.
+1~2~5~L~Shawn Michaels~1~0~0~Gotcha. Hey look, Randy. You don't need to do this alone. If you ever need a tag partner, just give me a call.
+1~2~5~R~Randy Orton~0.5~0.5~0.5~Thanks Shawn. Together we will find and take down the Federation and avoid this scripted fate.
+1~2~5~L~Shawn Michaels~1~0~0~Right. Well glad to see you're okay. I'll see you later.
+1~2~5~R~Randy Orton~0.5~0.5~0.5~Hmm? You don't want to read the script for yourself?
+1~2~5~L~Shawn Michaels~1~0~0~I don't need to. Whatever is written in there, we won't let it come true. 
+1~2~5~R~Randy Orton~0.5~0.5~0.5~Are you sure? I feel like there are some things in here that you should know might happen.
+1~2~5~L~Shawn Michaels~1~0~0~I don't need their script. I'll write my own script. My own show. I will give them a show that they've never ever seen before. And you know why?
+1~2~5~R~Randy Orton~0.5~0.5~0.5~No. Why's that?
+1~2~5~L~Shawn Michaels~1~0~0~Because I can.
+10001~0~0~
+-1~0~0~0~
+2~0~0~N
+4~0~0~L~Cena~1~1~1~Cena would go on to make the decision that he had caused enough mysteries for people and decided to help people solve them instead.
+1001~0~0~0~
+4~0~0~L~Cena~1~1~1~He doesn't like being bait for ghosts but he'll do if for some Fruity Pebbles.
+5~0~0~L~Abe Lincoln~1~1~1~For Abe's aid at stopping Trump's plot, Abe Lincoln was inducted into the Wrestling Hall of Fame. However at the ceremony, Abe learned that there was a plot to try to assassinate him at the play he was supposed to go to. He quickly put on his wrestling costume and went to save his body double.
+1002~0~0~0~
+5~0~0~L~Abe Lincoln~1~1~1~(Also, that Lincoln in Wrestling Hall of Fame thing is real. I'm not making that up. Look it up).
+6~0~0~L~Randy Orton~1~1~1~Randy decided he liked the Shockmaster persona. However Shawn is really embarrassed by him and pretends not to know him.
+1003~0~0~0~
+6~0~0~L~Randy Orton~1~1~1~They have made no progress tracking down the Federation.
+7~0~0~L~Steve Austin~1~1~1~Stone Cold Steve Austin is still a hostage of the Federation. Orton enlisted the help of Booker T to try to track him down. Booker T found a lead suggesting that someone who looks like Austin was at a local supermarket. Booker went to investigate.
+1004~0~0~0~
+7~0~0~L~Steve Austin~1~1~1~After the events that occured it is believed that Austin is now working for the Federation. However, he has not been seen since.  Booker T is still in a coma.
+8~0~0~L~Fandango~1~1~1~Fandango really wanted to be a part of the Anti-Federation team. He continually crashes their secret strategy meeting matches.
+1005~0~0~0~
+8~0~0~L~Fandango~1~1~1~They continue to deny him entry to the team because he's not even a real wrestling.
+9~0~0~L~Donald Trump~1~1~1~Donald Trump, having been launched into space, continues to explore the cosmos.
+10~0~0~L~Donald Trump~1~1~1~Or at least he did until he had a bizarre encounter.
+11~0~0~L~New Day~1~1~1~After using their time machine to visit their future selves and with Vince now dead, the New Day were elected Presidents of the United States. They continue to do numerous rallies in order to prevent people from leaving Wrestling due to the revelation about the Federations and recruit fighters to combat them. 
+1006~0~0~0~
+11~0~0~L~New Day~1~1~1~They are also continuing to try to get Orton to uphold his end of the bargin and appear in a commercial for them.
+12~0~0~L~The Dead~1~1~1~Mick Foley, Sargeant Slaughter, and Vince McMahon are currently being reformed by Macho Man Randy Savage. He hopes they will join his army of Justice Spirit Warriors one day and assist Orton in his quest for Justice that they vowed to do at Wrestlemania four years ago. 
+3~0~0~L~Shawn Michaels~1~1~1~And finally, Shawn went on to pursuing his life long dream of becoming a chef.
+1000~0~0~0~
+3~0~0~L~Shawn Michaels~1~1~1~Shawn and Triple H would eventually found their own catering company, HHHBK catering.
+10001~10001~0~0~0~
+-7~0~0~0~
+13~6~7~N
+13~6~7~L~???~1~1~1~Report?
+13~6~7~R~???~1~1~1~It is done...
+13~6~7~L~???~1~1~1~Good. Good. And what about... him?
+13~6~7~R~???~1~1~1~Gone sir. He won't be a problem any longer.
+13~6~7~L~???~1~1~1~Excellent. Then everything is in place. It is time. Time to begin the final phase. Nothing will be able to stop us now.
+13~6~7~R~???~1~1~1~Sir. There was a complication I wanted to talk to you about.
+13~6~7~L~???~1~1~1~If it's Austin and Goldust you're refering to do not worry. I already know. I have someone else handling it.
+13~6~7~R~???~1~1~1~Yes sir. Of course you already knew sir. 
+13~6~7~L~???~1~1~1~You have exceeded all expectations. I am quite pleased. 
+13~6~7~L~???~1~1~1~I'll be honest with you. Four years ago I had my doubts about you. I'm glad you turned out okay and saw it the way we see it. 
+13~6~7~R~???~1~1~1~Yes sir. I can see how you saw that. I suffered a great loss that day. I was lost. 
+13~6~7~L~???~1~1~1~Don't worry. It is almost done. And then you'll never be lost again. 
+13~6~7~L~???~1~1~1~Hmm? It appears an enemy approaches...I must make the preparations...I will leave it you...
+13~6~7~R~???~1~1~1~It will be done my liege...
+13~7~0~L~???~1~1~1~...
+13~7~9~R~Shawn Michaels~1~0~0~There you are!
+13~7~9~R~Shawn Michaels~1~0~0~Why?! Why are you working for them?!
+13~7~9~R~Shawn Michaels~1~0~0~Four years ago we said we'd prevent this future together!!!
+-1~0~0~
+-112~0~0~
+13~8~9~R~Shawn Michaels~1~0~0~ORTON!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!
+15~0~0~N
+10001~10001~10001~

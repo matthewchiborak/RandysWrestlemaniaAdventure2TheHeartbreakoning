@@ -1,0 +1,41 @@
+-2~test
+12~1~18~R~Vince McMahon~0~0~1~Guh! Who's there!
+12~1~18~L~Shawn Michaels~1~0~0~Relax Vince. It's me. I'm here to get you out.
+12~1~18~R~Vince McMahon~0~0~1~Well it's about damn time. I thought they were going to kill me. I was starting to think people forgot about me.
+12~1~18~L~Shawn Michaels~1~0~0~Well you don't have to worry about that. Did you tell them what they wanted? What did they want anyway?
+12~1~18~R~Vince McMahon~0~0~1~Uh... That's classified...
+12~1~18~L~Shawn Michaels~1~0~0~Look Vince. If I'm going to take these guys down I need to know what they're after.
+12~1~18~R~Vince McMahon~0~0~1~...If I tell you, they really will kill me.
+-107~NoiseOfApproach
+12~1~18~L~Shawn Michaels~1~0~0~Huh?! Did you hear that?
+12~1~18~R~Vince McMahon~0~0~1~No! Someone's coming! Quick hide in the lockers! And take this with you!
+12~1~18~L~Shawn Michaels~1~0~0~A USB stick? Alright. Whatever you do, don't tell them what you know!
+13~19~1~R~Shawn Michaels~1~0~0~...
+13~19~1~LW~Steve Austin~0~0~0~Alright Prince. Change of plans. You're coming with us.
+13~19~1~L~Vince McMahon~0~0~1~What! No! You said...
+-7~Orton
+13~19~1~L~???~0.5~0.5~0.5~I know what I said. The situation has changed. I've changed my mind.
+13~19~1~L~Vince McMahon~0~0~1~Changed your mind! What situation?!
+13~19~1~L~???~0~1~0~Foley's gone rogue. He stole the case. We're in the process of tracking him down.
+13~19~1~L~???~0.5~0.5~0.5~Until then you're sticking with me. 
+13~19~1~L~Vince McMahon~0~0~1~You promiced me!
+13~19~1~L~Vince McMahon~0~0~1~You gave me your word, Orton!
+13~19~1~R~Shawn Michaels~1~0~0~Orton...So he is here!
+13~19~1~L~Randy Orton~0.5~0.5~0.5~Until we get that case back from Foley, you're our insurance.
+13~19~1~L~Vince McMahon~0~0~1~Noooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooo...
+-2~test
+-103~Door
+13~19~1~R~Shawn Michaels~1~0~0~...
+13~19~1~R~Shawn Michaels~1~0~0~Okay I think the coast is clear
+12~1~2~L~Shawn Michaels~1~0~0~Sargeant come in. 
+12~1~2~R~Sgt. Slaughter~0~1~0~Yes Shawn? Did you find Vince?
+12~1~2~L~Shawn Michaels~1~0~0~Yeah but they just took him away. He is still alive though.
+12~1~2~R~Sgt. Slaughter~0~1~0~Oh okay that's good. Where is he now?
+12~1~2~L~Shawn Michaels~1~0~0~With their leader. Randy Orton himself.
+12~1~2~R~Sgt. Slaughter~0~1~0~Orton's there at the stadium himself?! This just got much more difficult. Do you have any idea where they might have gone.
+12~1~2~L~Shawn Michaels~1~0~0~No I don't. But Vince did give me this. It looks like a USB stick. 
+12~1~2~R~Sgt. Slaughter~0~1~0~Oh? Do you know what's on it?
+12~1~2~L~Shawn Michaels~1~0~0~Let me try...
+12~1~2~L~Shawn Michaels~1~0~0~Damn. No. The data's all encrypted.
+12~1~2~R~Sgt. Slaughter~0~1~0~Well never mind that now. They just left correct? Head in the direction they went and see if you can't catch up to them and track them. 
+12~1~2~L~Shawn Michaels~1~0~0~Understood

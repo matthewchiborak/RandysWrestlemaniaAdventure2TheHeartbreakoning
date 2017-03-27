@@ -1,0 +1,100 @@
+-2~test
+14~1~7~RW~Steve Austin~0~0~0~Auuuuuuugggggghhhhhhhh!
+14~1~7~L~Shawn Michaels~1~0~0~It's over Austin! You've lost! 
+14~1~7~RW~Steve Austin~0~0~0~Nooooooooooooo!
+14~1~7~L~Shawn Michaels~1~0~0~Your dream dies with you! Your reign of terror ends... Huh?
+-6~Love
+14~7~22~LW~Steve Austin~0~0~0~My beautiful truck! Noooooo! How could you!!!!!!!
+14~7~22~LW~Steve Austin~0~0~0~It's okay truck. No tears. I'm here for you...
+14~7~22~LW~Steve Austin~0~0~0~My love for you...is like a truck...
+14~7~22~LW~Steve Austin~0~0~0~Because you are a truck...
+-108~Flashback
+14~7~22~LW~Steve Austin~0~0~0~...
+16~0~0~N
+17~0~0~N
+18~0~0~N
+19~0~0~N
+20~0~0~N
+21~0~0~N
+-1~Silence
+14~1~7~L~Shawn Michaels~1~0~0~Austin...I'm so sorry...
+14~1~7~RW~Steve Austin~0~0~0~Just...Just leave...Please...
+14~1~0~L~Shawn Michaels~1~0~0~I feel kind of bad now...
+14~1~0~L~Shawn Michaels~1~0~0~Oh well. I guess he won't mind if I take these.
+-2~Ambient
+14~1~0~L~Shawn Michaels~1~0~0~Sargeant. Come in. Can you hear me?
+14~1~0~L~Shawn Michaels~1~0~0~Sargeant?
+14~1~0~L~Shawn Michaels~1~0~0~That's strange. I can't get a signal out.
+14~1~0~L~Shawn Michaels~1~0~0~Huh? What's this? I'm now recieving a signal?!
+14~1~23~R~The Shockmaster~0.5~0.5~0.5~Hello? Shawn? Can you hear me?
+14~1~23~L~Shawn Michaels~1~0~0~Shockmaster? Yes I can. How did you get my frequency? Why can't I reach anybody?
+14~1~23~R~The Shockmaster~0.5~0.5~0.5~Seems like they're blocking all broadcasts in and out of the building.
+14~1~23~L~Shawn Michaels~1~0~0~Gotcha. Hey Shockmaster. Do you know where they took Vince McMahon? He was in the chairman's office until a couple minutes ago.
+14~1~23~R~The Shockmaster~0.5~0.5~0.5~That's what I wanted to talk to you about. You were in the chairman's office correct? Did you see a black USB stick while you were in there?
+14~1~23~L~Shawn Michaels~1~0~0~Yes actually. Vince gave it to me himself. 
+14~1~23~R~The Shockmaster~0.5~0.5~0.5~Perfect. Bring it with you and come to the lobby. I would like to take a look at the information stored on it.
+14~1~23~L~Shawn Michaels~1~0~0~I already tried that. The data's all encrypted. You won't be able to read it.
+14~1~23~R~The Shockmaster~0.5~0.5~0.5~That won't be a problem.
+14~1~23~L~Shawn Michaels~1~0~0~Hmm? How do you mean?
+14~1~23~R~The Shockmaster~0.5~0.5~0.5~I brought a friend along who should be able to crack the encryption.
+14~1~23~L~Shawn Michaels~1~0~0~Understood. I'm making my way to the lobby now.
+0~1~13~L~Shawn Michaels~1~0~0~There you are Shockmaster. Huh?!
+0~1~17~R~Masked Man~1~1~1~So we meet again.
+0~1~13~L~Shawn Michaels~1~0~0~What's he doing here?!
+0~1~13~R~The Shockmaster~0.5~0.5~0.5~This is my friend I was telling you about.
+0~1~17~L~Shawn Michaels~1~0~0~Oh yeah. Okay. Because I should totally trust someone who won't reveal his face.
+-1~silent
+1001~7.23
+-2~Ambient
+0~1~17~R~Sting~1~1~1~It's nice to finally meet with you face to face.
+0~1~13~R~The Shockmaster~0.5~0.5~0.5~This my friend, Sting. We go back several years. I brought him back out of retirement to assist with this job.
+0~1~17~L~Shawn Michaels~1~0~0~Wait. You two are working together!
+0~1~17~R~Sting~1~1~1~Of course. Now. There's little time. Please give me the drive.
+0~1~17~L~Shawn Michaels~1~0~0~Oh yeah. Of course. Here.
+0~1~17~R~Sting~1~1~1~Let's see if we can't crack this thing.
+0~13~17~L~The Shockmaster~0.5~0.5~0.5~How long do you think it'll take to get the info off of it.
+0~13~17~R~Sting~1~1~1~Ooh. This is very secure. It will take quite a while I'm afraid.
+0~13~17~L~The Shockmaster~0.5~0.5~0.5~That's time we might not have.
+0~13~17~R~Sting~1~1~1~Oh that's interesting...
+0~13~17~L~The Shockmaster~0.5~0.5~0.5~What?! What'd you find?
+0~13~17~R~Sting~1~1~1~You said something about the roof earlier did you not?
+0~13~17~L~The Shockmaster~0.5~0.5~0.5~Yeah. When I went to check the roof again, the stairs were magically no longer there. There was no way to get to it.
+0~13~17~R~Sting~1~1~1~From the data I've decrypted so far, it seems that the roof is where they've stationed their base of operations. That's likely where they're keeping Vince.
+0~13~17~L~The Shockmaster~0.5~0.5~0.5~They're on the roof...And we can't find the way up to the roof...You don't think...
+0~13~17~R~Sting~1~1~1~Yes...The unseen one...
+0~1~17~L~Shawn Michaels~1~0~0~Uh the unseen one? Anyone want to fill me in here?
+0~1~17~R~Sting~1~1~1~John Cena...Hell in the Cell's master of stealth and infiltration. He must be consealing the path to the roof...
+0~1~17~L~Shawn Michaels~1~0~0~Cena? Impossible! Orton killed him four years ago at Wrestlemania!
+0~1~13~R~The Shockmaster~0.5~0.5~0.5~Severely injured yes. Killed no.
+0~1~13~R~The Shockmaster~0.5~0.5~0.5~After being defeated by Orton, Cena turned over a new leaf and become one of Orton's greatest allies.
+0~1~13~R~The Shockmaster~0.5~0.5~0.5~How do you think Orton was able to RKO out of nowhere?
+0~1~17~R~Sting~1~1~1~We must locate Cena and stop his illusion before it's too late.
+0~1~17~L~Shawn Michaels~1~0~0~This is Cena we're talking about. THE Cena. No one's ever been able to see him if he chooses to be unseen.
+0~1~13~R~The Shockmaster~0.5~0.5~0.5~There was one man who did know how to find him.  There's a small problem with that though.
+0~1~13~L~Shawn Michaels~1~0~0~How small a problem is it? Who do we have to talk to?
+0~1~13~R~The Shockmaster~0.5~0.5~0.5~It was Big Show.
+0~1~13~L~Shawn Michaels~1~0~0~Oh Big Show?! Oh great! Perfect! That'll be easy. He died four years ago! What are we supposed to do now!
+0~1~13~R~The Shockmaster~0.5~0.5~0.5~Don't worry. I thought we'd encounter a situation precisely like this one. So I borrowed something from a friend.
+0~1~13~L~Shawn Michaels~1~0~0~I don't follow...
+0~1~13~R~The Shockmaster~0.5~0.5~0.5~I knew a guy who wanted his gimmick to be that he could time travel so that he could run in on his own matches and save himself and then he'd say 'I gotta remember to do that later'. And so he made a time machine.
+0~1~13~L~Shawn Michaels~1~0~0~Excuse me.
+0~1~13~R~The Shockmaster~0.5~0.5~0.5~A time machine. We're going to use it to go back to Wrestlemania four years ago when Big Show was still alive.  Then we'll be able to ask him how to find Cena.
+0~1~17~R~Sting~1~1~1~It will have to be you that goes back Shawn. Shockmaster and I were both present at Wrestlemania four years ago. We don't want to chance running into our past selves.
+0~1~17~L~Shawn Michaels~1~0~0~Well alright. What have I got to lose. What do I have to do?
+0~1~13~R~The Shockmaster~0.5~0.5~0.5~Just give it a minute. The friend I'm borrowing it from isn't back with it yet.
+-1~silent
+1002~36.85
+-2~ambient
+0~13~24~L~The Shockmaster~0.5~0.5~0.5~Wait. Wait. Wait. Wait. Wait. Wait. Wait. Hold on. You guys said we could use it. This is really important.
+0~13~24~RW~Kofi Kingston~0~0~1~Oh come on man! We're on a journey to the 'Bygone era'! We need to see it with our own eyes.
+0~13~24~L~The Shockmaster~0.5~0.5~0.5~I'll appear in commericals for Booty-O's for you.
+0~13~24~RW~Kofi Kingston~0~0~1~And done! The 'New Day-lorean' is all yours!
+0~13~24~L~The Shockmaster~0.5~0.5~0.5~I'm probably going to regret this later...
+0~1~13~R~The Shockmaster~0.5~0.5~0.5~Alright Shawn. Are you ready?
+0~1~13~L~Shawn Michaels~1~0~0~As ready as I'll ever be.
+0~1~13~R~The Shockmaster~0.5~0.5~0.5~Okay. Just step inside.
+-1~silent
+-109~TimeTravel 
+22~0~0~N
+-101~test
+15~0~0~N

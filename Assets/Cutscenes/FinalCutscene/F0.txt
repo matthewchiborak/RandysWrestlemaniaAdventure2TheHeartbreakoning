@@ -1,0 +1,14 @@
+-5~
+-100~Giant Roar
+0~0~0~L~Donald Trump~0.5~0.5~0.5~Ughh! Why? Why won't you die!
+0~0~0~R~Shawn Michaels~1~0~0~The Heart Break Kid does not rest in peace. He can stay up ALL NIIIGHT! That's why!
+0~0~0~L~Donald Trump~0.5~0.5~0.5~Well no matter. All I needed was time for the cannon to fully charge. Now! Time to fire! Huh?! What?! Where's the controller?!
+0~0~0~R~Shawn Michaels~1~0~0~Oh? Do you mean this controller?
+-102~
+0~0~0~L~Donald Trump~0.5~0.5~0.5~Uh! No! He must have taken if off of me during the fight! OF COURSE! When he hugged me! I'm such a fool!
+-101~MetalCrush
+0~0~0~R~Shawn Michaels~1~0~0~
+-100~
+0~0~0~L~Donald Trump~0.5~0.5~0.5~Nooooooooooooooooooooooooooooooooooooooooooooo! Why'd you have to crush it! You've destroyed everything!
+0~0~0~L~Donald Trump~0.5~0.5~0.5~Fine. You leave me with no other choice! I'll have to activate the cannon manually.
+0~0~0~L~Donald Trump~0.5~0.5~0.5~Donald Jump!

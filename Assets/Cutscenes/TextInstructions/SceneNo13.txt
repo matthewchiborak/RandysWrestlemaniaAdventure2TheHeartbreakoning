@@ -1,0 +1,59 @@
+-15~test
+30~1~30~L~Shawn Michaels~1~0~0~Big Show! There you are! Finally!
+30~1~30~R~Big Show~1~1~1~Oh hey! Shawn is that you? It's been a while since I last saw you. Actually it's been a while since I've seen anybody...
+30~1~30~L~Shawn Michaels~1~0~0~Yeah I'm really sorry. We should hang out more often. Big Show please I don't have a lot of time. Orton said you know how to find Cena. Please tell me. It's very important.
+30~1~30~R~Big Show~1~1~1~Cena? Oh yeah. We were hanging out at one of my new years parties and he told me how he operates.
+30~1~30~R~Big Show~1~1~1~Okay. Everytime Cena is on a mission, he chooses a room to act as his base and hides it.
+30~1~30~L~Shawn Michaels~1~0~0~Okay so if I find the room, I find Cena.
+30~1~30~R~Big Show~1~1~1~Exactly. But there's a catch. He always hides the room with an image representing the last person who defeated him as a sign of respect.
+30~1~30~L~Shawn Michaels~1~0~0~Last person who beat him? That would be Orton! So he probably hid it with something that has to do with an RKO...
+30~1~30~R~Big Show~1~1~1~Oh Orton beat Cena? When did that happen?
+30~1~30~L~Shawn Michaels~1~0~0~It happened shortly after you died.
+30~31~1~LW~Undertaker~0~0~0~Oh there you are Shawn. Orton said you'd need my help. You bring me my shampoo?
+30~1~30~R~Big Show~1~1~1~I'm...I'm dead...Someone killed me...Oh god...
+30~31~1~R~Shawn Michaels~1~0~0~It's been nice talking to you Big Show. Yeah Undertaker here it is.
+30~31~1~LW~Undertaker~0~0~0~Perfect. Okay I'm sending you back now.
+30~1~30~R~Big Show~1~1~1~Oh god! Someone killed me! It was Goldust wasn't it! He killed me!
+30~1~30~L~Shawn Michaels~1~0~0~Goldust? No it was Cena actually. 
+30~1~30~R~Big Show~1~1~1~If that's what you believe then you've already lost...
+30~1~30~L~Shawn Michaels~1~0~0~Wait! Undertaker, stop! Big Show what do you know! Tell me!
+-2~ambient
+-115~Gasp
+10~1~29~L~Shawn Michaels~1~0~0~Uhhhh!
+10~1~29~R~Randy Orton~0.5~0.5~0.5~Welcome back!
+10~7~29~LW~Steve Austin~0~0~0~Borton I'm so so sorry. I thought he was you! It was so convincing...
+10~7~29~R~Randy Orton~0.5~0.5~0.5~For the millionth time, I forgive you.
+10~1~29~R~Randy Orton~0.5~0.5~0.5~Now quickly Shawn. Did you find him? Do you know how to find Cena?
+10~1~29~L~Shawn Michaels~1~0~0~Yeah I found him. Why are we in the gym?
+10~1~29~R~Randy Orton~0.5~0.5~0.5~We couldn't take down Trump. He was able to escape back to the roof. Then we were overrun with guards so we had to retreat back here.
+10~1~29~L~Shawn Michaels~1~0~0~Gotcha. But isn't it over? Haven't we won? They can't activate the weapon without Vince. And Trump killed him! 
+10~1~17~R~Sting~1~1~1~Not necessarily...
+10~1~17~L~Shawn Michaels~1~0~0~How do you mean?
+10~1~17~R~Sting~1~1~1~I finished decrypting the drive you brought us. There was surveillance footage on it. Take a look.
+-4~Urian
+8~26~18~L~Donald Trump~0.5~0.5~0.5~Come on Vince. Just give me the access code.
+8~26~18~RW~Vince McMahon~0~0~1~Access code? I have no idea what you're talking about.
+8~26~18~L~Donald Trump~0.5~0.5~0.5~Vince. Please. I was President before you. I know that the case can only be opened by the current president. Now if you please...
+8~26~18~RW~Vince McMahon~0~0~1~Never. I'll never help you with your twisted plot! Now let me go!
+8~26~18~L~Donald Trump~0.5~0.5~0.5~That's a shame. I was hoping we wouldn't have to get messy. However, you leave me no choice. Austin!
+8~7~18~LW~Steve Austin~0~0~0~Leave it to me Borton.
+-1~Silent
+1005~161.25
+-4~Urian
+8~26~34~RW~Vince McMahon~0~0~1~Fine! Stop! Please! I give up! Here! Here's the access code!
+8~26~34~L~Donald Trump~0.5~0.5~0.5~Excellent. I knew you'd see it our way. Austin. Give the man a wig. Don't want him catching a cold.
+-10~Panic
+10~1~17~L~Shawn Michaels~1~0~0~That means they have everything they need! Also who was that guy on the right?
+10~1~29~R~Randy Orton~0.5~0.5~0.5~Likely it was Cena in one of his disguises.
+10~1~29~L~Shawn Michaels~1~0~0~I can't believe Vince caved in and then lied to us about it. If he were alive right now I know exactly what I'd do...
+-1~Silent
+-108~FlashBack
+10~1~29~L~Shawn Michaels~1~0~0~Hmm....
+1006~41.65
+-10~Panic
+10~1~29~R~Randy Orton~0.5~0.5~0.5~Never mind that now. We have to hurry. Quick. What did Big Show tell you.
+10~1~29~L~Shawn Michaels~1~0~0~He said he would have disguised his location with something to do you you. He said it would probably have to do with an RKO.
+10~1~29~R~Randy Orton~0.5~0.5~0.5~RKO...You've been everywhere in this stadium today. Did you see anything that looked out of place that had to do with an RKO?
+10~1~29~L~Shawn Michaels~1~0~0~Now that you mention it yeah. There was.
+10~1~29~R~Randy Orton~0.5~0.5~0.5~Okay! Hurry there! And put a stop to Cena.
+10~1~29~L~Shawn Michaels~1~0~0~Understood.

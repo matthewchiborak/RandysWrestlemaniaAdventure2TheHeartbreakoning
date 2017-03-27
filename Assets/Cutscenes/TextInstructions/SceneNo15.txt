@@ -1,0 +1,27 @@
+-2~Silence
+-114~Scream
+31~32~35~R~John~0~1~0~UGGGGGGGGGHHHHHHHH!
+-11~Sorrow
+31~32~35~L~Cena~0~1~0~JOHN NO!!!!!!!!!!!!!!!
+31~32~35~L~Cena~0~1~0~I can't live without you...You made me whole...
+31~1~32~L~Shawn Michaels~1~0~0~It's over Cena. You've lost
+31~1~32~R~Cena~0~1~0~You're right...I've been defeated...
+31~1~32~L~Shawn Michaels~1~0~0~It didn't have to end this way...
+31~1~32~R~Cena~0~1~0~Yes it did. There was no other way. And now that I've been defeated, you have earned my help.
+31~1~32~L~Shawn Michaels~1~0~0~You'll help me?
+31~1~32~R~Cena~0~1~0~Yes. After all I must uphold Asimov's 'Three Laws of Robotics'
+31~1~32~R~Cena~0~1~0~Hustle. Loyalty. Respect.
+31~1~32~R~Cena~0~1~0~I respect you as a wrestler. I will loyally follow you into the heat of battle. And I will hustle that case back for you.
+31~1~32~L~Shawn Michaels~1~0~0~So you'll help us stop the weapon?! Excellent.
+31~1~32~R~Cena~0~1~0~The weapon? You're concerned about the weapon? 
+31~1~32~L~Shawn Michaels~1~0~0~Huh? Well yes! What are you talking about?
+31~1~32~R~Cena~0~1~0~There's more than just the weapon in that case. Something far more dangerous.
+31~1~32~L~Shawn Michaels~1~0~0~What else is in there?
+31~1~32~R~Cena~0~1~0~There's no time. I've removed my illusion hiding the stairway to the roof. Go. I'll catch up.
+31~1~32~L~Shawn Michaels~1~0~0~Understood
+31~1~32~R~Cena~0~1~0~And here. Take these. My brother won't be needing them anymore...
+31~29~1~L~Randy Orton~0.5~0.5~0.5~Oh! Here you are Shawn.
+31~29~1~R~Shawn Michaels~1~0~0~Randy! Perfect timing. The illusion is broken. We can get to the roof.
+31~29~1~L~Randy Orton~0.5~0.5~0.5~Excellent! Then let's go save the world.
+-101~Item
+33~0~0~N

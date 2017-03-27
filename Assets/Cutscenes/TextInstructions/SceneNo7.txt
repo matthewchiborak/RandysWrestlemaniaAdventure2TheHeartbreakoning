@@ -1,0 +1,9 @@
+-2~test
+14~1~0~L~Shawn Michaels~1~0~0~They must have come this way. There's no other way to go. 
+-103~Garage Door open
+14~1~20~L~Shawn Michaels~1~0~0~Wha!
+-3~austin
+14~1~21~RW~Steve Austin~0~0~0~Would you look at that. Borton was right. Someone would try following us.
+14~1~21~L~Shawn Michaels~1~0~0~Austin!
+14~1~21~RW~Steve Austin~0~0~0~It's been a while since I've been able to take the old truck for a spin. 
+14~1~21~RW~Steve Austin~0~0~0~I hope you like pancakes. Because you're about to be one!

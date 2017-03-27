@@ -1,0 +1,29 @@
+-2~Silence
+31~1~0~L~Shawn Michaels~1~0~0~This is definitely the place.
+31~1~0~R~???~0~1~0~Oh? It would appear that someone has wandered in here...
+31~1~0~L~Shawn Michaels~1~0~0~Ah! Cena! Is that you?! Show yourself!
+31~1~0~R~???~0~1~0~Hahahaha. That's funny. Why have you come?
+31~1~0~L~Shawn Michaels~1~0~0~I came to defeat you! Are you a ghost? I thought Orton killed you four years ago at Wrestlemania. Cut you right in half.
+31~1~0~R~???~0~1~0~I may have been defeated but I am not killed so easily.
+31~1~0~L~Shawn Michaels~1~0~0~Never mind it doesn't matter. Just show yourself! I have to get to the roof! I have to defeat you! Just like Orton did four years ago!
+31~1~0~R~???~0~1~0~Such confidence. Orton may have defeated me. But you are not Orton. But I never back down. Never back down from a challenge. Because I have a name...
+31~1~32~R~John~0~1~0~And my name is John!
+31~32~32~L~Cena~0~1~0~And my name is Cena!
+31~1~33~R~John & Cena~0~1~0~And together we form!
+-12~Cena
+-117~NameIs
+31~1~33~R~John & Cena~0~1~0~JOHN CENA!
+31~1~33~R~John~0~1~0~It is true we lost to Orton...
+31~1~33~R~Cena~0~1~0~...But now we're a tag team
+31~1~33~R~John & Cena~0~1~0~And we will not be defeated!
+31~1~33~L~Shawn Michaels~1~0~0~CENAS! I don't care how many of you there are! 
+31~1~33~R~John~0~1~0~It's not a matter of numbers...
+31~1~33~R~Cena~0~1~0~...We've been silently following you since you entered the building.
+31~1~33~R~John~0~1~0~We even unlocked the door when you arrived...
+31~1~33~R~Cena~0~1~0~...and not a single thank you! You just stood there ignoring us!
+31~1~33~R~John~0~1~0~And how do you think that Goldust, Austin, and the others knew exactly where you were at all times and could ambush you?
+31~1~33~R~Cena~0~1~0~It's because we've been right beside you the whole time!
+31~1~33~L~Shawn Michaels~1~0~0~I'll give you a little piece of advice Cenas. Don't hunt what you can't kill.
+31~1~33~R~John~0~1~0~We don't have to kill you...
+31~1~33~R~Cena~0~1~0~...We just have to buy the boss enough time!
+31~1~33~R~John & Cena~0~1~0~You'll never defeat us! You cannot C the real us!

@@ -1,0 +1,39 @@
+-2~test
+11~1~0~L~Shawn Michaels~1~0~0~Hello? Is anyone in here? Vince?
+11~1~0~L~Shawn Michaels~1~0~0~Oh whoopdee doo. Lo and behold. There's nothing in here. What am I doing?!
+11~1~0~R~???~1~1~1~Those who ask for help will recieve it...
+11~1~0~L~Shawn Michaels~1~0~0~Huh? Who's there! Show yourself!
+11~1~17~R~Masked Man~1~1~1~You passed with flying colours...
+11~1~17~L~Shawn Michaels~1~0~0~Identify yourself!
+11~1~17~R~Masked Man~1~1~1~I'm like you... I have no name...
+11~1~17~L~Shawn Michaels~1~0~0~What? No! I'm Shawn Michaels. You know? The Heartbreak Kid? You never heard of me? Come on! I'm just a sexy boy. SEXYYYYYYYY BOOOOOOOY! No?
+11~1~17~R~Masked Man~1~1~1~Only a fool believes everything he is told. Especially if it's from Fandango...
+11~1~17~L~Shawn Michaels~1~0~0~You never answered my question. Who are you? Are you with Hell in the Cell too?
+11~1~17~R~Masked Man~1~1~1~I am neither enemy nor friend... I am just a messenger of the federation...
+11~1~17~L~Shawn Michaels~1~0~0~What? This smells like a trick to me. What are you doing here?
+11~1~17~R~Masked Man~1~1~1~A good friend of mine asked for my help to assist you. 
+11~1~17~L~Shawn Michaels~1~0~0~Who? Who asked you?
+11~1~17~R~Masked Man~1~1~1~...
+11~1~17~L~Shawn Michaels~1~0~0~Why won't you identify yourself?
+11~1~17~R~Masked Man~1~1~1~There is no need for you to know...
+11~1~17~L~Shawn Michaels~1~0~0~I'll decide whether I need to know.
+11~1~17~R~Masked Man~1~1~1~You are not yet trusted to make such decisions... I'll tell you something you do need to know, instead. The current location of the President.
+11~1~17~L~Shawn Michaels~1~0~0~Huh?! Where?! Where is he?
+11~1~17~R~Masked Man~1~1~1~They're currently holding him in his former office, the Chairman's office. Likely due to the fact there's an intruder trying to rescue him.
+11~1~17~L~Shawn Michaels~1~0~0~So he's still alive... Why are you telling me this?
+11~1~17~R~Masked Man~1~1~1~Must I repeat myself...
+11~1~17~L~Shawn Michaels~1~0~0~There's no reason for me to believe any of this. You could be a member of Hell in the Cell! You understand that?
+11~1~17~R~Masked Man~1~1~1~Of course. But you also have no choice but to believe. Do you have any other leads?
+11~1~17~L~Shawn Michaels~1~0~0~...I suppose you're right. But the chairman's office is on the west side of the stadium. I can't get over there!
+11~1~17~R~Masked Man~1~1~1~Here. Take this. It's a level 3 keycard. It will get you into the west wing of the stadium, and thus the chairman's office.
+11~1~17~L~Shawn Michaels~1~0~0~Oh thanks!
+11~1~17~R~Masked Man~1~1~1~I suggest you hurry. It's only a matter of time until Vince caves to them and they move to the next phase of their plan.
+11~1~17~L~Shawn Michaels~1~0~0~Next phase?! What are they planning?! How do you know?! How do you know Vince hasn't caved already and he's already been killed?!
+11~1~17~R~Masked Man~1~1~1~How do I know he's still alive? You didn't find their continuing presence here unusual?
+11~1~17~L~Shawn Michaels~1~0~0~I suppose...
+11~1~17~R~Masked Man~1~1~1~Time is short. You must hurry...
+11~1~0~R~Masked Man~1~1~1~Follow your destiny...
+11~1~0~L~Shawn Michaels~1~0~0~Well that was weird...
+11~1~2~L~Shawn Michaels~1~0~0~Sargeant. I may have a lead on where the President is.
+11~1~2~R~Sgt. Slaughter~0~1~0~Excellent work. Now hurry. There probably isn't much time left.
+11~1~2~L~Shawn Michaels~1~0~0~Understood.
